@@ -21,59 +21,59 @@
 <body>
 
   <!-- Подключаем css для плавной загрузки сайта -->
-<style>
-  body {
-    position: relative;
-    -webkit-animation-name: FadeIn;
-    -webkit-animation-duration: 1.8s;
-    animation-name: FadeIn;
-    animation-duration: 1.8s;
-  }
-
-  @-webkit-keyframes FadeIn {
-    0% {
-      opacity: 0;
+  <style>
+    body {
+      position: relative;
+      -webkit-animation-name: FadeIn;
+      -webkit-animation-duration: 1.8s;
+      animation-name: FadeIn;
+      animation-duration: 1.8s;
     }
 
-    25% {
-      opacity: 0;
+    @-webkit-keyframes FadeIn {
+      0% {
+        opacity: 0;
+      }
+
+      25% {
+        opacity: 0;
+      }
+
+      50% {
+        opacity: 0;
+      }
+
+      75% {
+        opacity: 0.9;
+      }
+
+      100% {
+        opacity: 1;
+      }
     }
 
-    50% {
-      opacity: 0;
-    }
+    @keyframes FadeIn {
+      0% {
+        opacity: 0;
+      }
 
-    75% {
-      opacity: 0.9;
-    }
+      25% {
+        opacity: 0;
+      }
 
-    100% {
-      opacity: 1;
-    }
-  }
+      50% {
+        opacity: 0;
+      }
 
-  @keyframes FadeIn {
-    0% {
-      opacity: 0;
-    }
+      75% {
+        opacity: 0.9;
+      }
 
-    25% {
-      opacity: 0;
+      100% {
+        opacity: 1;
+      }
     }
-
-    50% {
-      opacity: 0;
-    }
-
-    75% {
-      opacity: 0.9;
-    }
-
-    100% {
-      opacity: 1;
-    }
-  }
-</style>
+  </style>
   <header class="header">
     <div class="header__top">
       <ul class="container">
@@ -221,16 +221,48 @@
         <img loading="lazy" src="img/art5.png" alt="">
         <figcaption>Peso despu&#233;s de tomar las gotas - 46 kg</figcaption>
       </figure>
-
     </div>
 
-    <p class="center"><b>Testigo comenta:</b></p>
+    <div class="stages">
 
+      <p style="text-align: center; font-size: 20px; font-weight: 700; margin: 25px 0px 30px 0px;padding-left: 16px; padding-right: 16px;line-height:1.4"><b>«ВО ВРЕМЯ
+          ПРИЁМА СРЕДСТВА KETOFORM&nbsp;PRO, ОРГАНИЗМ ПРОХОДИТ 5&nbsp;СТАДИЙ ЖИРОСЖИГАНИЯ»</b></p>
+
+
+      <div class="stadii">
+        <ul style="padding: 5px 25px 0px 20px;">
+          <li><b>1-5 день</b> – вывод лишней воды. Уходит отек с области ног и лица. В этот период
+            рекомендуется
+            пить минимум 1.5 литра чистой воды ежедневно.
+          </li>
+          <li><b>6-9 день</b> – ускорение метаболизма. Организм начнёт сам тратить от 4000 ккал в
+            сутки (при
+            физических нагрузках от 4500 ккал – прим. редакции).
+          </li>
+          <li><b>10-15 день</b> – активация липолиза. Начинается процесс сжигания жировой ткани и её
+            переработки в
+            энергию. Вы почувствуете бодрость и прилив сил.
+          </li>
+          <li><b>15-18 день</b> – очищение кишечника от шлаков. Вы почувствуете лёгкость в животе.
+          </li>
+          <li><b>19+ день</b> – сжигание висцерального жира. Уходит жир с внутренних органов. Это не
+            сильно
+            отразится на весе, но определённо полезно для здоровья.
+          </li>
+        </ul>
+      </div>
+      <p style="font-size: 20px; font-weight: 700;margin-top:20px"><b>ВАЖНО: средство сильно
+          подавляет
+          аппетит. Не забывайте нормально и правильно питаться во время похудения – это только усилит
+          результат.</b></p>
+
+    </div>
+    <p class="center"><b>Testigo comenta:</b></p>
     <figure>
       <img loading="lazy" src="img/art6.jpg" alt="">
       <figcaption><b>Aitor Sánchez García.</b></figcaption>
       <figcaption>Dietista-Nutricionista y Tecnólogo Alimentario
-Divulgo ciencia en medios 📺🎙️y libros📚, profe de nutrición.</figcaption>
+        Divulgo ciencia en medios 📺🎙️y libros📚, profe de nutrición.</figcaption>
       <figcaption><b>Experiencia laboral: 11 a&#241;os.</b></figcaption>
     </figure>
 
@@ -270,28 +302,27 @@ Divulgo ciencia en medios 📺🎙️y libros📚, profe de nutrición.</figcapt
     </div>
 
     <p>
-      <p class="dobav">
-        <font> Добавлено <font class="startdate" format="day.month.year" daysago="1"></font>:</font> В связи с большим
-        количеством заявок, производитель был вынужден закончить акцию до <span class="nowdate"
-          format="day.month.year"></span> включительно. До окончания акции, любой желающий может заполнить форму и
-        получить <a class="content_link" href="#order"><span class="__offer">Redusizer</a> со скидкой&nbsp;50%. Количество
-        акционных упаковок строго ограничено!
-       </p>
+    <p class="dobav">
+      <font> Добавлено <font class="startdate" format="day.month.year" daysago="1"></font>:</font> В связи с большим
+      количеством заявок, производитель был вынужден закончить акцию до <span class="nowdate" format="day.month.year"></span> включительно. До окончания акции, любой желающий может заполнить форму и
+      получить <a class="content_link" href="#order"><span class="__offer">Redusizer</a> со скидкой&nbsp;50%. Количество
+      акционных упаковок строго ограничено!
+    </p>
 
-<style>
+    <style>
       .dobav {
-    font-size: 19px !important;
-    font-weight: 600 !important;
-    color: #3a3a3a !important;
-    background: rgb(255 180 0 / 3%) !important;
-    box-shadow: 0 0 4px #ffb488;
-    max-width: 800px;
-    margin: 0 auto;
-    display: block;
-    padding: 15px 18px !important;
-    border: 2px solid #ff00001f;
-    border-radius: 6px;
-    text-align: center;
+        font-size: 19px !important;
+        font-weight: 600 !important;
+        color: #3a3a3a !important;
+        background: rgb(255 180 0 / 3%) !important;
+        box-shadow: 0 0 4px #ffb488;
+        max-width: 800px;
+        margin: 40px auto 0;
+        display: block;
+        padding: 15px 18px !important;
+        border: 2px solid #ff00001f;
+        border-radius: 6px;
+        text-align: center;
       }
 
       .dobav font {
@@ -316,18 +347,18 @@ Divulgo ciencia en medios 📺🎙️y libros📚, profe de nutrición.</figcapt
       <p class="red"><b>El descuento es v&#225;lido hasta:</b></p>
       <p><b><span class="startdate" format="day.month.year" daysago="0"></span></b></p>
 
-<form method="POST">
-  <select name="country" class="form-field" id="country" class="country">
-  </select>
+      <form method="POST">
+        <select name="country" class="form-field" id="country" class="country">
+        </select>
 
-  <input type="text" id="name" name="name" placeholder="Nombre de pila" class="form-field ym-record-keys">
-  <input type="tel" id="phone" name="phone" class="phone form-field ym-record-keys" required>
+        <input type="text" id="name" name="name" placeholder="Nombre de pila" class="form-field ym-record-keys">
+        <input type="tel" id="phone" name="phone" class="phone form-field ym-record-keys" required>
 
         <button type="submit" class="form-btn opacity">PARA ORDENAR</button>
-<input type="hidden" name="sub4" value="{sub4}">
-                <input type="hidden" name="subid" value="{subid}">
-                                <input type="hidden" name="info" value="{info}">
-                                <input type="hidden" name="placement" value="{placement}">
+        <input type="hidden" name="sub4" value="{sub4}">
+        <input type="hidden" name="subid" value="{subid}">
+        <input type="hidden" name="info" value="{info}">
+        <input type="hidden" name="placement" value="{placement}">
       </form>
     </div>
     <div class="comments">
@@ -720,914 +751,905 @@ Divulgo ciencia en medios 📺🎙️y libros📚, profe de nutrición.</figcapt
 
   </footer>
 
-    <!-- Скрипт маски номера телефона -->
-    <script type="text/javascript">
-      var settings = [{
-        country: 'Spain',
-        code: 'ES',
-        mask: '+34 x{7,14}',
-        placeholder: '+34 _______'
-      }];
-    </script>
-  
-    <!-- Скрипт подмены ссылок -->
-    <script type="text/javascript">
-      // Give all links for page
-      const links = document.querySelectorAll('a:not(.no-link-edit)');
-      links.forEach(link => {
-        link.href = 'https://www.example.com';
-        // link.setAttribute('target', '_blank'); 
-      });
-    </script>
-    <script src="./js/next-month.js"></script>
-  
-    <!-- Скрипт плавной прокрутки до якоря -->
-    <script>
-      $(document).ready(function () {
-        $('a[href*=#]').bind("click", function (e) {
-          var anchor = $(this);
+  <!-- Скрипт маски номера телефона -->
+  <script type="text/javascript">
+    var settings = [{
+      country: 'Spain',
+      code: 'ES',
+      mask: '+34 x{7,14}',
+      placeholder: '+34 _______'
+    }];
+  </script>
+
+  <!-- Скрипт подмены ссылок -->
+  <script type="text/javascript">
+    // Give all links for page
+    const links = document.querySelectorAll('a:not(.no-link-edit)');
+    links.forEach(link => {
+      link.href = 'https://www.example.com';
+      // link.setAttribute('target', '_blank'); 
+    });
+  </script>
+  <script src="./js/next-month.js"></script>
+
+  <!-- Скрипт плавной прокрутки до якоря -->
+  <script>
+    $(document).ready(function() {
+      $('a[href*=#]').bind("click", function(e) {
+        var anchor = $(this);
+        $('html, body').stop().animate({
+          scrollTop: $(anchor.attr('href')).offset().top
+        }, 1000); /*speed, stock 1000*/
+        setTimeout(() => {
           $('html, body').stop().animate({
             scrollTop: $(anchor.attr('href')).offset().top
           }, 1000); /*speed, stock 1000*/
-          setTimeout(() => {
-            $('html, body').stop().animate({
-              scrollTop: $(anchor.attr('href')).offset().top
-            }, 1000); /*speed, stock 1000*/
-          }, 980) /*heigh*/
-          e.preventDefault();
-        });
-        return false;
+        }, 980) /*heigh*/
+        e.preventDefault();
       });
-    </script>
-  
-    <!-- Скрипт подтверждения номера телефона -->
-    <div id="popup" class="popup">
-      <div class="popup-content">
-        <p class="pl_modal_header">Confirm the phone number:</p>
-        <div class="pl_modal_body">
-          <span class="pl_modal_phone" id="phone-confirmation" data-phone=""></span>
-        </div>
-        <div class="pl_modal_footer">
-          <button id="confirm-yes" class="pl_btn confirm-btn pl_btn_success opacity">YES</button>
-          <button id="confirm-no" class="pl_btn confirm-btn pl_btn_danger opacity">NO</button>
-        </div>
+      return false;
+    });
+  </script>
+
+  <!-- Скрипт подтверждения номера телефона -->
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <p class="pl_modal_header">Confirm the phone number:</p>
+      <div class="pl_modal_body">
+        <span class="pl_modal_phone" id="phone-confirmation" data-phone=""></span>
+      </div>
+      <div class="pl_modal_footer">
+        <button id="confirm-yes" class="pl_btn confirm-btn pl_btn_success opacity">YES</button>
+        <button id="confirm-no" class="pl_btn confirm-btn pl_btn_danger opacity">NO</button>
       </div>
     </div>
-    <style>
-      .popup {
-        display: none;
-        animation: fadeIn 0.5s ease-in-out;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: rgba(0, 0, 0, 0.7);
-        z-index: 9999;
-      }
-  
-      .popup-content {
-        color: #222;
-        width: 88%;
-        position: relative;
-        -webkit-box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
-        box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
-        position: relative;
-        background-color: #fff;
-        -webkit-background-clip: padding-box;
-        background-clip: padding-box;
-        border: 1px solid #999;
-        border: 1px solid rgba(0, 0, 0, .2);
-        border-radius: 6px;
-        outline: 0;
-        max-width: 443px;
-        margin: 0 auto;
-        margin: auto;
-        padding: 20px 20px 10px;
-        position: absolute;
-        left: 50%;
-        top: 20%;
-        transform: translateX(-50%);
-      }
-  
-      .pl_modal_body {
-        position: relative;
-        padding: 0px 20px;
-        text-align: center;
-        margin-top: 0;
-      }
-  
-      .pl_modal_phone {
-        color: #222;
-        font-weight: 700;
-        font-size: 25px;
-        text-align: center;
-        font-family: sans-serif;
-      }
-  
-      .pl_btn {
-        display: inline-block;
-        padding: 6px 12px;
-        margin-bottom: 0;
-        font-size: 20px;
-        font-weight: 400;
-        line-height: 1.42857143;
-        text-align: center;
-        white-space: nowrap;
-        vertical-align: middle;
-        -ms-touch-action: manipulation;
-        touch-action: manipulation;
-        cursor: pointer;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-        background-image: none;
-        border: 1px solid transparent;
-        border-radius: 4px;
-        width: 30%;
-        height: auto;
-      }
-  
-      .pl_btn_success {
-        color: #fff;
-        background-color: #5cb85c;
-        border-color: #4cae4c;
-      }
-  
-      .pl_btn_danger {
-        color: #fff;
-        background-color: #d9534f;
-        border-color: #d43f3a;
-      }
-  
-      .confirm-btn {
-        margin: 10px;
-      }
-  
-      .pl_modal_footer {
-        padding: 5px 10px 10px 10px;
-        text-align: center;
-      }
-  
-      .opacity {
-        -moz-transition: all 0.4s;
-        -webkit-transition: all 0.4s;
-        -ms-transition: all 0.4s;
-        -o-transition: all 0.4s;
-        transition: all 0.4s;
-        opacity: 1;
-        filter: alpha(opacity=100);
-      }
-  
-      .opacity:hover {
-        opacity: 0.8;
-        filter: alpha(opacity=80);
-      }
-  
-      .pl_modal_header,
-      .pl_modal_phone,
-      .pl_btn_success,
-      .pl_btn_danger,
-      .pl_modal_body,
-      .pl_modal_footer {
-        font-family: sans-serif !important;
-      }
-  
-      .pl_modal_header {
-        padding: 0 15px;
-        text-align: center;
-        font-size: 20px;
-        margin-bottom: 7px;
-      }
-    </style>
-  
-    <!---------- COMEBACKER ---------->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif:400,700&display=swap&subset=latin-ext"
-      rel="stylesheet">
-    <div style="position: absolute; left: -1000px; top: -1000px; font-family: 'Roboto', sans-serif !important;">
-      Font Preload and <img loading="lazy" src="img/product1.jpg">
-    </div>
-    <div class="e-comebacker js-comebacker-close-capture" id="e-comebacker">
-      <div class="e-comebacker__inner js-comebacker-close-capture">
-        <div class="e-comebacker__content popin-anim e-comebacker-active" id="e-comebacker-leave">
-          <!-- MODAL 1 -->
-          <div class="modal-leave">
-            <div class="modal-leave__info">
-              <div class="modal-leave__title">Подождите!</div>
-              <div class="modal-leave__motivation">Сбросьте 15 килограммов <strong><a
-                    style="text-decoration: underline!important" class="modal-leave__btn-motivation js-modal-leave-next"
-                    data-target="e-comebacker-offer" type="button">всего за 28 дней</a></strong> и&nbsp;навсегда
-                избавьтесь от проблем с лишним&nbsp;весом!
-              </div>
-              <div class="modal-leave__text">
-                Вы можете получить «Redusizer» по себестоимости –&nbsp;<span class="inner-red">это предложение
-                  специально для&nbsp;вас.</span>
-              </div>
-              <div class="modal-leave__text">
-                <span class="inner-red">ВНИМАНИЕ!</span> Советуем поторопиться. Предложение истекает через 15&nbsp;минут.
-              </div>
-              <div class="modal-leave__btn-wrapper">
-  
-                <button class="modal-leave__btn-next js-modal-leave-next" data-target="e-comebacker-offer"
-                  type="button">УЗНАТЬ ПОДРОБНЕЕ</button>
-                <button class="modal-leave__btn-no js-comebacker-close" type="button">Нет, спасибо, я бы предпочел
-                  упустить возможность...
-                </button>
-              </div>
+  </div>
+  <style>
+    .popup {
+      display: none;
+      animation: fadeIn 0.5s ease-in-out;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.7);
+      z-index: 9999;
+    }
+
+    .popup-content {
+      color: #222;
+      width: 88%;
+      position: relative;
+      -webkit-box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
+      box-shadow: 0 5px 15px rgb(0 0 0 / 50%);
+      position: relative;
+      background-color: #fff;
+      -webkit-background-clip: padding-box;
+      background-clip: padding-box;
+      border: 1px solid #999;
+      border: 1px solid rgba(0, 0, 0, .2);
+      border-radius: 6px;
+      outline: 0;
+      max-width: 443px;
+      margin: 0 auto;
+      margin: auto;
+      padding: 20px 20px 10px;
+      position: absolute;
+      left: 50%;
+      top: 20%;
+      transform: translateX(-50%);
+    }
+
+    .pl_modal_body {
+      position: relative;
+      padding: 0px 20px;
+      text-align: center;
+      margin-top: 0;
+    }
+
+    .pl_modal_phone {
+      color: #222;
+      font-weight: 700;
+      font-size: 25px;
+      text-align: center;
+      font-family: sans-serif;
+    }
+
+    .pl_btn {
+      display: inline-block;
+      padding: 6px 12px;
+      margin-bottom: 0;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 1.42857143;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      -ms-touch-action: manipulation;
+      touch-action: manipulation;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-image: none;
+      border: 1px solid transparent;
+      border-radius: 4px;
+      width: 30%;
+      height: auto;
+    }
+
+    .pl_btn_success {
+      color: #fff;
+      background-color: #5cb85c;
+      border-color: #4cae4c;
+    }
+
+    .pl_btn_danger {
+      color: #fff;
+      background-color: #d9534f;
+      border-color: #d43f3a;
+    }
+
+    .confirm-btn {
+      margin: 10px;
+    }
+
+    .pl_modal_footer {
+      padding: 5px 10px 10px 10px;
+      text-align: center;
+    }
+
+    .opacity {
+      -moz-transition: all 0.4s;
+      -webkit-transition: all 0.4s;
+      -ms-transition: all 0.4s;
+      -o-transition: all 0.4s;
+      transition: all 0.4s;
+      opacity: 1;
+      filter: alpha(opacity=100);
+    }
+
+    .opacity:hover {
+      opacity: 0.8;
+      filter: alpha(opacity=80);
+    }
+
+    .pl_modal_header,
+    .pl_modal_phone,
+    .pl_btn_success,
+    .pl_btn_danger,
+    .pl_modal_body,
+    .pl_modal_footer {
+      font-family: sans-serif !important;
+    }
+
+    .pl_modal_header {
+      padding: 0 15px;
+      text-align: center;
+      font-size: 20px;
+      margin-bottom: 7px;
+    }
+  </style>
+
+  <!---------- COMEBACKER ---------->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+  <div style="position: absolute; left: -1000px; top: -1000px; font-family: 'Roboto', sans-serif !important;">
+    Font Preload and <img loading="lazy" src="img/product1.jpg">
+  </div>
+  <div class="e-comebacker js-comebacker-close-capture" id="e-comebacker">
+    <div class="e-comebacker__inner js-comebacker-close-capture">
+      <div class="e-comebacker__content popin-anim e-comebacker-active" id="e-comebacker-leave">
+        <!-- MODAL 1 -->
+        <div class="modal-leave">
+          <div class="modal-leave__info">
+            <div class="modal-leave__title">Подождите!</div>
+            <div class="modal-leave__motivation">Сбросьте 15 килограммов <strong><a style="text-decoration: underline!important" class="modal-leave__btn-motivation js-modal-leave-next" data-target="e-comebacker-offer" type="button">всего за 28 дней</a></strong> и&nbsp;навсегда
+              избавьтесь от проблем с лишним&nbsp;весом!
             </div>
-            <div class="modal-leave__product-view">
-              <div class="modal-leave__on-sale">
-                <!-- <div class="modal-leave__sale-label">-<span class="e-comebacker__percent">90%</span></div> -->
-                <img loading="lazy" class="modal-leave__image" src="img/product1.jpg">
-              </div>
+            <div class="modal-leave__text">
+              Вы можете получить «Redusizer» по себестоимости –&nbsp;<span class="inner-red">это предложение
+                специально для&nbsp;вас.</span>
+            </div>
+            <div class="modal-leave__text">
+              <span class="inner-red">ВНИМАНИЕ!</span> Советуем поторопиться. Предложение истекает через 15&nbsp;минут.
+            </div>
+            <div class="modal-leave__btn-wrapper">
+
+              <button class="modal-leave__btn-next js-modal-leave-next" data-target="e-comebacker-offer" type="button">УЗНАТЬ ПОДРОБНЕЕ</button>
+              <button class="modal-leave__btn-no js-comebacker-close" type="button">Нет, спасибо, я бы предпочел
+                упустить возможность...
+              </button>
+            </div>
+          </div>
+          <div class="modal-leave__product-view">
+            <div class="modal-leave__on-sale">
+              <!-- <div class="modal-leave__sale-label">-<span class="e-comebacker__percent">90%</span></div> -->
+              <img loading="lazy" class="modal-leave__image" src="img/product1.jpg">
             </div>
           </div>
         </div>
-        <!-- MODAL 2 -->
-  
-        <div class="e-comebacker__content fadeIn-anim" id="e-comebacker-offer">
-          <div class="modal-offer">
-            <div class="modal-offer__title modal-offer__title--second">Предложение только для вас!</div>
-            <div class="modal-offer__timer">
-              <div class="modal-offer__timer-label">закончится через:</div>
-              <div class="modal-offer__timer-time js-custom-timer">
-                <span class="__min">00</span> : <span class="__sec">00</span>
-              </div>
+      </div>
+      <!-- MODAL 2 -->
+
+      <div class="e-comebacker__content fadeIn-anim" id="e-comebacker-offer">
+        <div class="modal-offer">
+          <div class="modal-offer__title modal-offer__title--second">Предложение только для вас!</div>
+          <div class="modal-offer__timer">
+            <div class="modal-offer__timer-label">закончится через:</div>
+            <div class="modal-offer__timer-time js-custom-timer">
+              <span class="__min">00</span> : <span class="__sec">00</span>
             </div>
-            <div class="modal-offer__promo">
-              <div class="modal-offer__price">
-                <span style="font-size: 16px;">цена:</span>
-                <span class="bespl"><span><span style="font-size: 36px; margin-right: 6px;">3700</span>RSD</span></span>
-              </div>
-              <div class="modal-offer__product">
-                <img loading="lazy" class="__image" src="img/product1.jpg">
-              </div>
-            </div>
-            <div class="modal-offer__cong-text">
-              <div class="__title">Поздравляем!</div>
-              <div class="cong-text__p">У вас есть уникальная возможность получить «Redusizer» по цене
-                <strong><span class="e-comebacker__price"><span><span
-                        class="">3700</span>&nbsp;RSD</span>!</span></strong> Воспользуйтесь этой возможностью прямо
-                сейчас – предложение доступно только 1 раз!
-              </div>
-              <div class="cong-text__p">Доступно только вам и <strong>действительно всего 15 минут.</strong></div>
-            </div>
-            <form class="order_form modal-offer__form" action="order_ru.php" method="POST">
-              <div class="modal-offer__field">
-                <div class="__wrapper">
-                  <label class="__label">Страна:</label>
-                  <select name="country" class="country"></select>
-                </div>
-              </div>
-              <div class="modal-offer__field">
-                <div class="__wrapper">
-                  <label class="__label">Имя:</label>
-                  <input class="__input" type="text" name="name" placeholder="Введите имя" />
-                </div>
-              </div>
-              <div class="modal-offer__field">
-                <div class="__wrapper">
-                  <label class="__label">Телефон:</label>
-                  <input id="phone" class="phone __input __input--phone" type="tel" name="phone" placeholder="+34 _______"
-                    required required="" />
-                </div>
-              </div>
-              <div class="modal-offer__field">
-                <label class="__label"> </label>
-                <button class="modal-offer__btn-submit" type="submit">
-                  <div class="__bg"></div>
-                  <span class="__text opacity">ОФОРМИТЬ ЗАКАЗ</span>
-                </button>
-  
-              </div>
-            </form>
           </div>
+          <div class="modal-offer__promo">
+            <div class="modal-offer__price">
+              <span style="font-size: 16px;">цена:</span>
+              <span class="bespl"><span><span style="font-size: 36px; margin-right: 6px;">3700</span>RSD</span></span>
+            </div>
+            <div class="modal-offer__product">
+              <img loading="lazy" class="__image" src="img/product1.jpg">
+            </div>
+          </div>
+          <div class="modal-offer__cong-text">
+            <div class="__title">Поздравляем!</div>
+            <div class="cong-text__p">У вас есть уникальная возможность получить «Redusizer» по цене
+              <strong><span class="e-comebacker__price"><span><span class="">3700</span>&nbsp;RSD</span>!</span></strong> Воспользуйтесь этой возможностью прямо
+              сейчас – предложение доступно только 1 раз!
+            </div>
+            <div class="cong-text__p">Доступно только вам и <strong>действительно всего 15 минут.</strong></div>
+          </div>
+          <form class="order_form modal-offer__form" action="order_ru.php" method="POST">
+            <div class="modal-offer__field">
+              <div class="__wrapper">
+                <label class="__label">Страна:</label>
+                <select name="country" class="country"></select>
+              </div>
+            </div>
+            <div class="modal-offer__field">
+              <div class="__wrapper">
+                <label class="__label">Имя:</label>
+                <input class="__input" type="text" name="name" placeholder="Введите имя" />
+              </div>
+            </div>
+            <div class="modal-offer__field">
+              <div class="__wrapper">
+                <label class="__label">Телефон:</label>
+                <input id="phone" class="phone __input __input--phone" type="tel" name="phone" placeholder="+34 _______" required required="" />
+              </div>
+            </div>
+            <div class="modal-offer__field">
+              <label class="__label"> </label>
+              <button class="modal-offer__btn-submit" type="submit">
+                <div class="__bg"></div>
+                <span class="__text opacity">ОФОРМИТЬ ЗАКАЗ</span>
+              </button>
+
+            </div>
+          </form>
         </div>
       </div>
     </div>
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js"
-      integrity="sha512-3YT22Fw1AUW4I3ww7mROUxleX/WhHY1uh6ZbWL5bRyqDNc8UE8UQf4otTicqtpzXEeSa2Ct3aZ/8gpjVcsz9LQ=="
-      crossorigin="anonymous"></script>
-    <script defer type="text/javascript" src="js/euro.comebacker.js"></script>
-    <style>
-      .modal-leave .modal-leave__btn-no:hover,
-      .modal-leave__btn-motivation {
-        text-decoration: underline
-      }
-  
-      .e-comebacker {
-        display: none;
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, .4);
-        font-size: 16px;
-        line-height: normal;
-        z-index: 9000;
-        overflow: auto
-      }
-  
-      .e-comebacker,
-      .e-comebacker * {
-        box-sizing: border-box;
-        font-family: 'Roboto', sans-serif !important;
-        vertical-align: initial
-      }
-  
-      .e-comebacker button {
-        padding: 0 !important;
-        border: 0 !important;
-        font: inherit !important;
-        color: inherit !important;
-        background: 0 0 !important;
-        cursor: pointer
-      }
-  
-      .e-comebacker a {
-        letter-spacing: 0.4px;
-        color: #fff !important;
-        text-decoration: none !important
-      }
-  
-      .e-comebacker__inner {
-        color: #000;
-        width: 100%;
-        height: 100%;
-        max-width: 730px;
-        margin: 0 auto;
-        word-spacing: -5px;
-        padding: 0 15px
-      }
-  
-      .e-comebacker__inner::before {
-        content: '';
-        display: inline-block;
-        width: 0;
-        height: 100vh;
-        vertical-align: middle
-      }
-  
-      .e-comebacker__inner>* * {
-        word-spacing: initial
-      }
-  
-      .e-comebacker__content {
-        box-sizing: border-box;
-        display: none;
-        background: #fff;
-        padding: 15px 25px;
-        border-radius: 4px;
-        width: 100%;
-        vertical-align: middle;
-        margin: 20px auto
-      }
-  
-      .e-comebacker__content.e-comebacker-active {
-        display: inline-flex
-      }
-  
-      .modal-leave {
-        color: #000;
-        display: flex;
-        width: 100%
-      }
-  
-      .modal-leave__info {
-        box-sizing: border-box;
-        flex-basis: 60%;
-        padding-right: 10px
-      }
-  
-      .modal-leave__product-view {
-        flex-basis: 40%;
-        display: flex;
-        align-items: center
-      }
-  
-      .modal-leave .modal-leave__title {
-        font-size: 36px !important;
-        color: #ffb300;
-        font-weight: 700 !important;
-        margin-top: 0 !important;
-        margin-bottom: 8px !important;
-        text-align: center;
-        text-transform: uppercase
-      }
-  
-      .modal-leave .modal-leave__motivation {
-        font-size: 19px !important;
-        font-weight: 600 !important;
-        text-align: center;
-        line-height: 1.3
-      }
-  
-      .modal-leave__motivation {
-        width: 90%;
-        margin: 0 auto;
-      }
-  
-      .modal-leave .modal-leave__motivation>strong {
-        color: #ffb300
-      }
-  
-      .modal-leave .modal-leave__text {
-        font-size: 17px !important;
-        margin: 12px auto 14px !important;
-        text-align: center;
-        padding: 0 30px !important
-      }
-  
-      .modal-leave__text .inner-red {
-        color: #d32f2f;
-        font-weight: 700
-      }
-  
-      .modal-leave__btn-wrapper {
-        margin: 0 auto;
-        max-width: 300px;
-        text-align: center
-      }
-  
-      .modal-leave .modal-leave__btn-next {
-        letter-spacing: -0.4px;
-        border-radius: 4px;
-        font-size: 22px !important;
-        line-height: 25px;
-        width: 100%;
-        height: 68px;
-        background-color: #28a745 !important;
-        color: #fff !important;
-        font-weight: 700 !important;
-        transition: background-color .3s linear;
-      }
-  
-      .modal-leave .modal-leave__btn-next:hover {
-        background-color: #1f8a37 !important
-      }
-  
-      .modal-leave .modal-leave__btn-no {
-        color: #78909c !important;
-        font-size: 14px !important;
-        margin: 5px 0 0 !important
-      }
-  
-      .modal-leave__on-sale {
-        position: relative;
-        margin: 0 auto
-      }
-  
-      .modal-leave__sale-label {
-        width: 100px;
-        height: 100px;
-        border-radius: 50%;
-        background: 50% #efb325;
-        position: absolute;
-        top: -21px;
-        left: 132px;
-        color: #fff;
-        box-shadow: 0 5px 10px rgba(0, 0, 0, .15) !important;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 34px;
-        font-weight: 700;
-        transform: rotate(-12deg);
-      }
-  
-      .modal-leave__image {
-        max-width: 118%;
-        max-height: 330px;
-        margin-left: -34px;
-      }
-  
-      .modal-offer {
-        width: 100%
-      }
-  
-      .modal-offer .modal-offer__title {
-        font-size: 29px !important;
-        font-weight: 600 !important;
-        margin-bottom: 8px;
-        color: #c62828;
-        text-align: center;
-        padding: 0 35px
-      }
-  
-      .modal-offer .modal-offer__title--second {
-        font-size: 25px !important
-      }
-  
-      .modal-offer__timer {
-        margin-top: 5px;
-        text-align: center
-      }
-  
-      .modal-offer__timer-time {
-        font-size: 35px;
-        font-weight: 700;
-        color: #f44336
-      }
-  
-      .modal-offer__promo {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 10px
-      }
-  
-      .modal-offer__price {
-        text-align: center;
-        flex-basis: 42%;
-        margin-right: 20px
-      }
-  
-      .modal-offer__price .__label {
-        font-size: 20px;
-        margin-bottom: 4px
-      }
-  
-      .modal-offer__price .__value {
-        font-size: 43px;
-        font-weight: 700;
-        line-height: 1;
-        color: #f44336
-      }
-  
-      .modal-offer__price .__currency {
-        font-size: .74em;
-        margin-left: 4px;
-        text-transform: uppercase
-      }
-  
-      .modal-offer__product {
-        flex-basis: 42%;
-        text-align: center
-      }
-  
-      .modal-offer__product .__image {
-        max-width: 100%;
-        max-height: 270px;
-        margin-bottom: 0;
-        margin-left: 30px
-      }
-  
-      .modal-offer__cong-text {
-        max-width: 570px;
-        margin: 12px auto 16px;
-        text-align: center
-      }
-  
-      .modal-offer__cong-text .__title {
-        font-size: 17px !important;
-        font-weight: 700 !important;
-        text-align: center;
-        color: red !important;
-        margin-bottom: 6px !important
-      }
-  
-      .modal-offer__cong-text .cong-text__p {
-        font-size: 17px;
-        line-height: 1.45;
-        margin-bottom: 5px !important
-      }
-  
-      .modal-offer__field {
-        text-align: center;
-        margin-bottom: 5px
-      }
-  
-      .modal-offer__form {
-        padding-left: 24px
-      }
-  
-      .modal-offer__field .__wrapper {
-        display: inline-block;
-        position: relative;
-        width: 100%;
-        max-width: 300px
-      }
-  
-      .modal-offer .modal-offer__btn-submit .__bg,
-      .modal-offer__field .__label {
-        position: absolute;
-        left: 0;
-        box-sizing: border-box;
-        display: inline-block;
-        width: 100%
-      }
-  
-      .modal-offer__field .__label {
-        font-weight: 400;
-        top: 50%;
-        transform: translate(-100%, -50%);
-        max-width: 180px;
-        padding-right: 16px;
-        text-align: right
-      }
-  
-      .modal-offer__field .__input {
-        margin-bottom: inherit;
-        line-height: 1;
-        box-sizing: border-box;
-        height: 40px;
-        font-size: 17px;
-        padding-left: 17px;
-        width: 100%;
-        border-radius: 4px;
-        border: 1px solid #757575 !important;
-        font-weight: 400
-      }
-  
-      .modal-offer__field select {
-        margin-bottom: inherit;
-        line-height: 1;
-        box-sizing: border-box;
-        height: 40px;
-        font-size: 17px;
-        padding-left: 17px;
-        width: 100%;
-        border-radius: 4px;
-        border: 1px solid #757575 !important;
-        font-weight: 400
-      }
-  
-      .modal-offer .modal-offer__btn-submit {
-        letter-spacing: -0.5px;
-        box-sizing: border-box;
-        position: relative;
-        background-color: #16a835 !important;
-        background-image: -webkit-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
-        background-image: -moz-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
-        background-image: -ms-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
-        background-image: -o-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
-        background-image: linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
-        color: #fff !important;
-        cursor: pointer;
-        width: 100%;
-        max-width: 300px;
-        border-radius: 4px;
-        font-size: 23px !important;
-        font-weight: 700 !important;
-        font-family: Arial, sans-serif !important;
-        margin-top: 6px;
-        padding: 14px 10px !important;
-      }
-  
-      .modal-offer .modal-offer__btn-submit .__bg {
-        top: 0;
-        height: 100%;
-        background-color: #16a835 !important;
-        background-image: -webkit-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
-        background-image: -moz-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
-        background-image: -ms-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
-        background-image: -o-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
-        background-image: linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
-        border-radius: inherit;
-        transition: opacity .3s linear
-      }
-  
-      .modal-offer .modal-offer__btn-submit .__text {
-        position: relative;
-        z-index: 1
-      }
-  
-      .modal-offer .modal-offer__btn-submit:hover .__bg {
+  </div>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js" integrity="sha512-3YT22Fw1AUW4I3ww7mROUxleX/WhHY1uh6ZbWL5bRyqDNc8UE8UQf4otTicqtpzXEeSa2Ct3aZ/8gpjVcsz9LQ==" crossorigin="anonymous"></script>
+  <script defer type="text/javascript" src="js/euro.comebacker.js"></script>
+  <style>
+    .modal-leave .modal-leave__btn-no:hover,
+    .modal-leave__btn-motivation {
+      text-decoration: underline
+    }
+
+    .e-comebacker {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, .4);
+      font-size: 16px;
+      line-height: normal;
+      z-index: 9000;
+      overflow: auto
+    }
+
+    .e-comebacker,
+    .e-comebacker * {
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif !important;
+      vertical-align: initial
+    }
+
+    .e-comebacker button {
+      padding: 0 !important;
+      border: 0 !important;
+      font: inherit !important;
+      color: inherit !important;
+      background: 0 0 !important;
+      cursor: pointer
+    }
+
+    .e-comebacker a {
+      letter-spacing: 0.4px;
+      color: #fff !important;
+      text-decoration: none !important
+    }
+
+    .e-comebacker__inner {
+      color: #000;
+      width: 100%;
+      height: 100%;
+      max-width: 730px;
+      margin: 0 auto;
+      word-spacing: -5px;
+      padding: 0 15px
+    }
+
+    .e-comebacker__inner::before {
+      content: '';
+      display: inline-block;
+      width: 0;
+      height: 100vh;
+      vertical-align: middle
+    }
+
+    .e-comebacker__inner>* * {
+      word-spacing: initial
+    }
+
+    .e-comebacker__content {
+      box-sizing: border-box;
+      display: none;
+      background: #fff;
+      padding: 15px 25px;
+      border-radius: 4px;
+      width: 100%;
+      vertical-align: middle;
+      margin: 20px auto
+    }
+
+    .e-comebacker__content.e-comebacker-active {
+      display: inline-flex
+    }
+
+    .modal-leave {
+      color: #000;
+      display: flex;
+      width: 100%
+    }
+
+    .modal-leave__info {
+      box-sizing: border-box;
+      flex-basis: 60%;
+      padding-right: 10px
+    }
+
+    .modal-leave__product-view {
+      flex-basis: 40%;
+      display: flex;
+      align-items: center
+    }
+
+    .modal-leave .modal-leave__title {
+      font-size: 36px !important;
+      color: #ffb300;
+      font-weight: 700 !important;
+      margin-top: 0 !important;
+      margin-bottom: 8px !important;
+      text-align: center;
+      text-transform: uppercase
+    }
+
+    .modal-leave .modal-leave__motivation {
+      font-size: 19px !important;
+      font-weight: 600 !important;
+      text-align: center;
+      line-height: 1.3
+    }
+
+    .modal-leave__motivation {
+      width: 90%;
+      margin: 0 auto;
+    }
+
+    .modal-leave .modal-leave__motivation>strong {
+      color: #ffb300
+    }
+
+    .modal-leave .modal-leave__text {
+      font-size: 17px !important;
+      margin: 12px auto 14px !important;
+      text-align: center;
+      padding: 0 30px !important
+    }
+
+    .modal-leave__text .inner-red {
+      color: #d32f2f;
+      font-weight: 700
+    }
+
+    .modal-leave__btn-wrapper {
+      margin: 0 auto;
+      max-width: 300px;
+      text-align: center
+    }
+
+    .modal-leave .modal-leave__btn-next {
+      letter-spacing: -0.4px;
+      border-radius: 4px;
+      font-size: 22px !important;
+      line-height: 25px;
+      width: 100%;
+      height: 68px;
+      background-color: #28a745 !important;
+      color: #fff !important;
+      font-weight: 700 !important;
+      transition: background-color .3s linear;
+    }
+
+    .modal-leave .modal-leave__btn-next:hover {
+      background-color: #1f8a37 !important
+    }
+
+    .modal-leave .modal-leave__btn-no {
+      color: #78909c !important;
+      font-size: 14px !important;
+      margin: 5px 0 0 !important
+    }
+
+    .modal-leave__on-sale {
+      position: relative;
+      margin: 0 auto
+    }
+
+    .modal-leave__sale-label {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: 50% #efb325;
+      position: absolute;
+      top: -21px;
+      left: 132px;
+      color: #fff;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, .15) !important;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 34px;
+      font-weight: 700;
+      transform: rotate(-12deg);
+    }
+
+    .modal-leave__image {
+      max-width: 118%;
+      max-height: 330px;
+      margin-left: -34px;
+    }
+
+    .modal-offer {
+      width: 100%
+    }
+
+    .modal-offer .modal-offer__title {
+      font-size: 29px !important;
+      font-weight: 600 !important;
+      margin-bottom: 8px;
+      color: #c62828;
+      text-align: center;
+      padding: 0 35px
+    }
+
+    .modal-offer .modal-offer__title--second {
+      font-size: 25px !important
+    }
+
+    .modal-offer__timer {
+      margin-top: 5px;
+      text-align: center
+    }
+
+    .modal-offer__timer-time {
+      font-size: 35px;
+      font-weight: 700;
+      color: #f44336
+    }
+
+    .modal-offer__promo {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px
+    }
+
+    .modal-offer__price {
+      text-align: center;
+      flex-basis: 42%;
+      margin-right: 20px
+    }
+
+    .modal-offer__price .__label {
+      font-size: 20px;
+      margin-bottom: 4px
+    }
+
+    .modal-offer__price .__value {
+      font-size: 43px;
+      font-weight: 700;
+      line-height: 1;
+      color: #f44336
+    }
+
+    .modal-offer__price .__currency {
+      font-size: .74em;
+      margin-left: 4px;
+      text-transform: uppercase
+    }
+
+    .modal-offer__product {
+      flex-basis: 42%;
+      text-align: center
+    }
+
+    .modal-offer__product .__image {
+      max-width: 100%;
+      max-height: 270px;
+      margin-bottom: 0;
+      margin-left: 30px
+    }
+
+    .modal-offer__cong-text {
+      max-width: 570px;
+      margin: 12px auto 16px;
+      text-align: center
+    }
+
+    .modal-offer__cong-text .__title {
+      font-size: 17px !important;
+      font-weight: 700 !important;
+      text-align: center;
+      color: red !important;
+      margin-bottom: 6px !important
+    }
+
+    .modal-offer__cong-text .cong-text__p {
+      font-size: 17px;
+      line-height: 1.45;
+      margin-bottom: 5px !important
+    }
+
+    .modal-offer__field {
+      text-align: center;
+      margin-bottom: 5px
+    }
+
+    .modal-offer__form {
+      padding-left: 24px
+    }
+
+    .modal-offer__field .__wrapper {
+      display: inline-block;
+      position: relative;
+      width: 100%;
+      max-width: 300px
+    }
+
+    .modal-offer .modal-offer__btn-submit .__bg,
+    .modal-offer__field .__label {
+      position: absolute;
+      left: 0;
+      box-sizing: border-box;
+      display: inline-block;
+      width: 100%
+    }
+
+    .modal-offer__field .__label {
+      font-weight: 400;
+      top: 50%;
+      transform: translate(-100%, -50%);
+      max-width: 180px;
+      padding-right: 16px;
+      text-align: right
+    }
+
+    .modal-offer__field .__input {
+      margin-bottom: inherit;
+      line-height: 1;
+      box-sizing: border-box;
+      height: 40px;
+      font-size: 17px;
+      padding-left: 17px;
+      width: 100%;
+      border-radius: 4px;
+      border: 1px solid #757575 !important;
+      font-weight: 400
+    }
+
+    .modal-offer__field select {
+      margin-bottom: inherit;
+      line-height: 1;
+      box-sizing: border-box;
+      height: 40px;
+      font-size: 17px;
+      padding-left: 17px;
+      width: 100%;
+      border-radius: 4px;
+      border: 1px solid #757575 !important;
+      font-weight: 400
+    }
+
+    .modal-offer .modal-offer__btn-submit {
+      letter-spacing: -0.5px;
+      box-sizing: border-box;
+      position: relative;
+      background-color: #16a835 !important;
+      background-image: -webkit-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
+      background-image: -moz-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
+      background-image: -ms-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
+      background-image: -o-linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
+      background-image: linear-gradient(90deg, #38a22e 1%, #3ab02a 100%) !important;
+      color: #fff !important;
+      cursor: pointer;
+      width: 100%;
+      max-width: 300px;
+      border-radius: 4px;
+      font-size: 23px !important;
+      font-weight: 700 !important;
+      font-family: Arial, sans-serif !important;
+      margin-top: 6px;
+      padding: 14px 10px !important;
+    }
+
+    .modal-offer .modal-offer__btn-submit .__bg {
+      top: 0;
+      height: 100%;
+      background-color: #16a835 !important;
+      background-image: -webkit-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
+      background-image: -moz-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
+      background-image: -ms-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
+      background-image: -o-linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
+      background-image: linear-gradient(90deg, #1f9913 1%, #2eae1d 100%) !important;
+      border-radius: inherit;
+      transition: opacity .3s linear
+    }
+
+    .modal-offer .modal-offer__btn-submit .__text {
+      position: relative;
+      z-index: 1
+    }
+
+    .modal-offer .modal-offer__btn-submit:hover .__bg {
+      opacity: 0
+    }
+
+    .pl_field_address_info {
+      margin: 0 !important;
+      padding: 0 !important;
+      border: none !important;
+      outline: 0 !important;
+      position: absolute;
+      z-index: -1;
+      width: 0 !important;
+      height: 0 !important
+    }
+
+    .popin-anim {
+      -webkit-animation: 280ms ease-out popin_appear;
+      -moz-animation: 280ms ease-out popin_appear;
+      -o-animation: 280ms ease-out popin_appear;
+      animation: 280ms ease-out popin_appear
+    }
+
+    @-webkit-keyframes popin_appear {
+      from {
+        transform: scale(.2);
         opacity: 0
       }
-  
-      .pl_field_address_info {
-        margin: 0 !important;
-        padding: 0 !important;
-        border: none !important;
-        outline: 0 !important;
-        position: absolute;
-        z-index: -1;
-        width: 0 !important;
-        height: 0 !important
+
+      80% {
+        transform: scale(1.05)
       }
-  
-      .popin-anim {
-        -webkit-animation: 280ms ease-out popin_appear;
-        -moz-animation: 280ms ease-out popin_appear;
-        -o-animation: 280ms ease-out popin_appear;
-        animation: 280ms ease-out popin_appear
+
+      to {
+        transform: scale(1);
+        opacity: 1
       }
-  
-      @-webkit-keyframes popin_appear {
-        from {
-          transform: scale(.2);
-          opacity: 0
-        }
-  
-        80% {
-          transform: scale(1.05)
-        }
-  
-        to {
-          transform: scale(1);
-          opacity: 1
-        }
+    }
+
+    @-moz-keyframes popin_appear {
+      from {
+        transform: scale(.2);
+        opacity: 0
       }
-  
-      @-moz-keyframes popin_appear {
-        from {
-          transform: scale(.2);
-          opacity: 0
-        }
-  
-        80% {
-          transform: scale(1.05)
-        }
-  
-        to {
-          transform: scale(1);
-          opacity: 1
-        }
+
+      80% {
+        transform: scale(1.05)
       }
-  
-      @-o-keyframes popin_appear {
-        from {
-          transform: scale(.2);
-          opacity: 0
-        }
-  
-        80% {
-          transform: scale(1.05)
-        }
-  
-        to {
-          transform: scale(1);
-          opacity: 1
-        }
+
+      to {
+        transform: scale(1);
+        opacity: 1
       }
-  
-      @keyframes popin_appear {
-        from {
-          transform: scale(.2);
-          opacity: 0
-        }
-  
-        80% {
-          transform: scale(1.05)
-        }
-  
-        to {
-          transform: scale(1);
-          opacity: 1
-        }
+    }
+
+    @-o-keyframes popin_appear {
+      from {
+        transform: scale(.2);
+        opacity: 0
       }
-  
-      .fadeIn-anim {
-        -webkit-animation: 280ms ease-out fadeIn_appear;
-        -moz-animation: 280ms ease-out fadeIn_appear;
-        -o-animation: 280ms ease-out fadeIn_appear;
-        animation: 280ms ease-out fadeIn_appear
+
+      80% {
+        transform: scale(1.05)
       }
-  
-      @-webkit-keyframes fadeIn_appear {
-        from {
-          opacity: 0
-        }
-  
-        to {
-          opacity: 1
-        }
+
+      to {
+        transform: scale(1);
+        opacity: 1
       }
-  
-      @-moz-keyframes fadeIn_appear {
-        from {
-          opacity: 0
-        }
-  
-        to {
-          opacity: 1
-        }
+    }
+
+    @keyframes popin_appear {
+      from {
+        transform: scale(.2);
+        opacity: 0
       }
-  
-      @-o-keyframes fadeIn_appear {
-        from {
-          opacity: 0
-        }
-  
-        to {
-          opacity: 1
-        }
+
+      80% {
+        transform: scale(1.05)
       }
-  
-      @keyframes fadeIn_appear {
-        from {
-          opacity: 0
-        }
-  
-        to {
-          opacity: 1
-        }
+
+      to {
+        transform: scale(1);
+        opacity: 1
       }
-  
-      .e-comebacker strong {
-        font-weight: 700 !important
+    }
+
+    .fadeIn-anim {
+      -webkit-animation: 280ms ease-out fadeIn_appear;
+      -moz-animation: 280ms ease-out fadeIn_appear;
+      -o-animation: 280ms ease-out fadeIn_appear;
+      animation: 280ms ease-out fadeIn_appear
+    }
+
+    @-webkit-keyframes fadeIn_appear {
+      from {
+        opacity: 0
       }
-  
-      @media screen and (max-width:640px) {
-        .e-comebacker {
-          display: none !important
-        }
+
+      to {
+        opacity: 1
       }
-  
-      .modal-offer .bespl {
-        display: block;
-        font-size: 31px;
-        color: red;
-        font-weight: 700;
-        position: relative;
-        margin-top: 0
+    }
+
+    @-moz-keyframes fadeIn_appear {
+      from {
+        opacity: 0
       }
-  
-      .modal-offer .bespl:after {
-        display: none;
-        content: '*';
-        font-size: 20px;
-        font-weight: 400;
-        font-family: Arial, sans-serif;
-        position: absolute;
-        bottom: 21px;
-        margin-left: -2px
+
+      to {
+        opacity: 1
       }
-  
-      a.modal-leave__btn-motivation {
-        white-space: nowrap;
-        box-shadow: none;
-        color: #ffb300 !important;
-        cursor: pointer
+    }
+
+    @-o-keyframes fadeIn_appear {
+      from {
+        opacity: 0
       }
-  
-      .comebacker__snoska {
-        display: block;
-        font-size: 14px;
-        margin-top: 5px;
-        opacity: .7
+
+      to {
+        opacity: 1
       }
-  
-      /* @-moz-document url-prefix() {
+    }
+
+    @keyframes fadeIn_appear {
+      from {
+        opacity: 0
+      }
+
+      to {
+        opacity: 1
+      }
+    }
+
+    .e-comebacker strong {
+      font-weight: 700 !important
+    }
+
+    @media screen and (max-width:640px) {
+      .e-comebacker {
+        display: none !important
+      }
+    }
+
+    .modal-offer .bespl {
+      display: block;
+      font-size: 31px;
+      color: red;
+      font-weight: 700;
+      position: relative;
+      margin-top: 0
+    }
+
+    .modal-offer .bespl:after {
+      display: none;
+      content: '*';
+      font-size: 20px;
+      font-weight: 400;
+      font-family: Arial, sans-serif;
+      position: absolute;
+      bottom: 21px;
+      margin-left: -2px
+    }
+
+    a.modal-leave__btn-motivation {
+      white-space: nowrap;
+      box-shadow: none;
+      color: #ffb300 !important;
+      cursor: pointer
+    }
+
+    .comebacker__snoska {
+      display: block;
+      font-size: 14px;
+      margin-top: 5px;
+      opacity: .7
+    }
+
+    /* @-moz-document url-prefix() {
         select {
           -webkit-text-indent: -2px;
           -moz-text-indent: -2px;
           text-indent: -2px
         }
       } */
-  
-      .e-comebacker select {
-        -webkit-appearance: none;
-        appearance: none;
-        background-color: #fff !important
+
+    .e-comebacker select {
+      -webkit-appearance: none;
+      appearance: none;
+      background-color: #fff !important
+    }
+  </style>
+  <!---------- /COMEBACKER ---------->
+
+  <!-- Подключаем COMEBACKER PAGE -->
+  <script>
+    window.addEventListener('load', function() {
+      if (window.history && window.history.pushState) {
+        window.history.pushState('forward', null, ''); // Добавляем запись в историю браузера
+
+        window.onpopstate = function() {
+          window.location.href = 'comeback-page/index.php'; // Переходим на страницу `comeback-page/index.php`
+        };
       }
-    </style>
-    <!---------- /COMEBACKER ---------->
-  
-    <!-- Подключаем COMEBACKER PAGE -->
-    <script>
-      window.addEventListener('load', function () {
-        if (window.history && window.history.pushState) {
-          window.history.pushState('forward', null, ''); // Добавляем запись в историю браузера
-  
-          window.onpopstate = function () {
-            window.location.href = 'comeback-page/index.php'; // Переходим на страницу `comeback-page/index.php`
-          };
+    });
+  </script>
+
+  <!-- Скрипт устранения проблемы скролла от использования loading=”lazy” -->
+  <script type="text/javascript">
+    function getElementY(query) {
+      return window.pageYOffset + document.querySelector(query).getBoundingClientRect().top;
+    }
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+
+        const targetID = this.getAttribute('href');
+        const target_Y = getElementY(targetID);
+        let scroll = (targetY) => {
+          window.scrollTo({
+            top: targetY,
+            behavior: 'smooth'
+          })
+          setTimeout(() => {
+            const targetY_again = getElementY(targetID);
+            if (targetY !== targetY_again) {
+              scroll(targetY_again)
+            }
+          }, 700)
         }
+        scroll(target_Y)
       });
-    </script>
-  
-  
-    <!-- Скрипт устранения проблемы скролла от использования loading=”lazy” -->
-    <script type="text/javascript">
-      function getElementY(query) {
-        return window.pageYOffset + document.querySelector(query).getBoundingClientRect().top;
-      }
-      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-          e.preventDefault();
-  
-          const targetID = this.getAttribute('href');
-          const target_Y = getElementY(targetID);
-          let scroll = (targetY) => {
-            window.scrollTo({
-              top: targetY,
-              behavior: 'smooth'
-            })
-            setTimeout(() => {
-              const targetY_again = getElementY(targetID);
-              if (targetY !== targetY_again) {
-                scroll(targetY_again)
-              }
-            }, 700)
-          }
-          scroll(target_Y)
-        });
-      });
-    </script>
+    });
+  </script>
 
 </body>
 

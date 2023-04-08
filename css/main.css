@@ -11,4 +11,27 @@
 .opacity:hover {
   opacity: 0.8;
   filter: alpha(opacity=80);
+}
+
+.stadii ul {
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+.stadii li {
+  margin: 17px;
+  color: #000;
+}
+
+.stages p {
+  color: #000;
+  text-align: left;
+  margin: 15px 0;
+  margin-top: 15px;
+  line-height: 1.4;
+}
+
+.center {
+  margin-top: 25px;
 }/*# sourceMappingURL=main.css.map */

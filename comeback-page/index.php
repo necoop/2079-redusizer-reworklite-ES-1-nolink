@@ -343,7 +343,6 @@
       padding-bottom: 25px;
     }
 
-    .footer a:last-child {}
 
     .correction {
       display: none;
@@ -544,10 +543,6 @@
         display: flex;
         flex-direction: column;
       }
-
-      .footer a:first-child {}
-
-      .footer a:last-child {}
 
       .button__item {
         font-size: 18px;
@@ -865,7 +860,6 @@
 
       .prod-img {
         text-align: center;
-        vertical-align: bottom;
         width: 100%;
         max-width: 221px;
         margin: 0 auto;
