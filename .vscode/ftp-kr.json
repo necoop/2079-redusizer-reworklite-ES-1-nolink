@@ -1,0 +1,16 @@
+{
+    "host": "andr.massweb.pro",
+    "username": "andr_massweb",
+    "password": "5WG9VgOuXz5pjKow",
+    "remotePath": "2079-redusizer-reworklite-ES-1-nolink",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
