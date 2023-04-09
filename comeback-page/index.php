@@ -672,11 +672,12 @@
 
     .prod-img {
       width: 40%;
-      display: inline-block;
-      margin: 0 auto;
-      text-align: center;
-      margin-bottom: 53px;
-      vertical-align: bottom;
+display: inline-block;
+margin: 0 auto;
+  margin-bottom: 0px;
+text-align: center;
+margin-bottom: 53px;
+vertical-align: bottom;
     }
 
     #counter {
@@ -1209,7 +1210,11 @@
     }
   </script>
 
-
+<script type="text/javascript">
+var settings = [
+{country: 'Spain',code: 'ES',mask: '+34 x{7,14}',placeholder: '+34 _______'},
+];
+</script>
 
 </body>
 

@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;1,700&amp;family=Roboto+Condensed:wght@400;700&amp;family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;1,700&family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
   <script type="text/javascript" src="js/date-random-SPA.js"></script>
@@ -21,6 +21,7 @@
 
 <body>
 
+  <!-- Подключаем css для плавной загрузки сайта -->
   <style>
     body {
       position: relative;
@@ -140,7 +141,8 @@
 
     <p>La dieta, los ejercicios f&#237;sicos, las pastillas y la liposucci&#243;n son los principales m&#233;todos para
       combatir el sobrepeso, sin embargo, el n&#250;mero de obesos sigue creciendo, ninguno de estos m&#233;todos es
-      realmente efectivo. Todo cambi&#243; cuando aparecieron en Espa&#241;a las gotas de <a href="{url}" class="link">Redusizer</a>, un producto para adelgazar de forma natural.</p>
+      realmente efectivo. Todo cambi&#243; cuando aparecieron en Espa&#241;a las gotas de <a href="{url}"
+        class="link">Redusizer</a>, un producto para adelgazar de forma natural.</p>
 
     <p><b>Sus preguntas ser&#225;n respondidas por el m&#233;dico:</b></p>
 
@@ -163,39 +165,32 @@
         velocidad a la que el cuerpo quema grasa aumenta 10 veces!</b></p>
 
     <div class="structure">
-      <h2>LOS POTENTES COMPONENTES CONTENIDOS EN REDUSIZER</h2>
+      <h2>LOS POTENTES COMPONENTES CONTENIDOS EN Redusizer</h2>
       <ul>
         <li>
-          <img loading="lazy" src="img/79/ico1.png" alt="" width="90">
-          <p><b>Guaraná de los bárbaros –</b> acelera el metabolismo, elimina el exceso de líquido del cuerpo,
-            proporciona energía, evita la absorción y la acumulación del 80% de las grasas obtenidas de los alimentos.
-          </p>
+          <img loading="lazy" src="img/ico1.png" alt="" width="90">
+          <p><b>Extracto seco de hojas de Yerba Mat&#232;, extracto seco de frutos verdes de naranja amarga.</b> Reduce
+            el apetito. Aumenta la descomposici&#243;n de la grasa, ayuda a perder peso.</p>
         </li>
 
         <li>
-          <img loading="lazy" src="img/79/ico2.png" alt="" width="90">
-          <p><b>Té verde –</b> mejora el metabolismo, reduce los antojos de dulces, depura el cuerpo de escorias y
-            toxinas, quema grasa 4 veces más rápido.</p>
+          <img loading="lazy" src="img/ico2.png" alt="" width="90">
+          <p><b>Acetil-L-carnitina.</b> Elimina l&#237;quidos del organismo, limpia y fortalece el sistema digestivo,
+            mejorando su funcionamiento.</p>
         </li>
 
         <li>
-          <img loading="lazy" src="img/79/ico3.png" alt="" width="90">
-          <p><b>Fruta de tuna –</b> tiene un fuerte efecto diurético y reduce la hinchazón, mejora la metabolismo.</p>
+          <img loading="lazy" src="img/ico3.png" alt="" width="90">
+          <p><b>Polvo de ra&#237;z de glucomanano de Konjac.</b> Mejora el funcionamiento del coraz&#243;n, normaliza el
+            metabolismo, tiene un efecto positivo en todo el cuerpo.</p>
         </li>
 
         <li>
-          <img loading="lazy" src="img/79/ico4.png" alt="" width="90">
-          <p><b>Espirulina –</b> elimina el exceso de líquido del organismo, calma y equilibra el sistema nervioso.</p>
-        </li>
-
-
-        <li>
-          <img loading="lazy" src="img/79/ico7.png" alt="" width="90">
-          <p><b>L-carnitina, cromo –</b> acelera la quema de grasa, transforma las células grasas en energía, reduce el
-            apetito.</p>
+          <img loading="lazy" src="img/ico4.png" alt="" width="90">
+          <p><b>Extracto de tallo y hoja de gimnema.</b> Aumenta la cantidad de endorfinas y da mucha energ&#237;a,
+            reduce la adicci&#243;n a los dulces.</p>
         </li>
       </ul>
-
     </div>
 
     <p>Est&#225; cl&#237;nicamente probado que las gotas de <a href="{url}" class="link">Redusizer</a> aceleran el
@@ -216,7 +211,8 @@
       </ul>
     </div>
 
-    <p>&#161;Gracias al r&#225;pido metabolismo de las personas que toman gotas de <a href="{url}" class="link">Redusizer</a>, es posible quemar hasta <b>700 gramos por d&#237;a</b> de grasa subcut&#225;nea en
+    <p>&#161;Gracias al r&#225;pido metabolismo de las personas que toman gotas de <a href="{url}"
+        class="link">Redusizer</a>, es posible quemar hasta <b>700 gramos por d&#237;a</b> de grasa subcut&#225;nea en
       &#225;reas problem&#225;ticas! <a href="{url}" class="link">Redusizer</a> tambi&#233;n es efectivo en los casos en
       que la falla hormonal es la causa del sobrepeso. <b>Si tiendes a tener sobrepeso, &#161;este es el producto para
         ti!</b></p>
@@ -250,47 +246,13 @@
         <img loading="lazy" src="img/art5.png" alt="">
         <figcaption>Peso despu&#233;s de tomar las gotas - 46 kg</figcaption>
       </figure>
-    </div>
-
-    <div class="stages">
-
-      <p style="text-align: center; font-size: 20px; font-weight: 700; margin: 25px 0px 30px 0px;padding-left: 16px; padding-right: 16px;line-height:1.4">
-        <b>«ВО ВРЕМЯ
-          ПРИЁМА СРЕДСТВА REDUSIZER, ОРГАНИЗМ ПРОХОДИТ 5&nbsp;СТАДИЙ ЖИРОСЖИГАНИЯ»</b>
-      </p>
-
-
-      <div class="stadii">
-        <ul style="padding: 5px 25px 0px 20px;">
-          <li><b>1-5 день</b> – вывод лишней воды. Уходит отек с области ног и лица. В этот период
-            рекомендуется
-            пить минимум 1.5 литра чистой воды ежедневно.
-          </li>
-          <li><b>6-9 день</b> – ускорение метаболизма. Организм начнёт сам тратить от 4000 ккал в
-            сутки (при
-            физических нагрузках от 4500 ккал – прим. редакции).
-          </li>
-          <li><b>10-15 день</b> – активация липолиза. Начинается процесс сжигания жировой ткани и её
-            переработки в
-            энергию. Вы почувствуете бодрость и прилив сил.
-          </li>
-          <li><b>15-18 день</b> – очищение кишечника от шлаков. Вы почувствуете лёгкость в животе.
-          </li>
-          <li><b>19+ день</b> – сжигание висцерального жира. Уходит жир с внутренних органов. Это не
-            сильно
-            отразится на весе, но определённо полезно для здоровья.
-          </li>
-        </ul>
-      </div>
-      <p style="font-size: 20px; font-weight: 700;margin-top:20px"><b>ВАЖНО: средство сильно
-          подавляет
-          аппетит. Не забывайте нормально и правильно питаться во время похудения – это только усилит
-          результат.</b></p>
 
     </div>
+
     <p class="center"><b>Testigo comenta:</b></p>
+
     <figure>
-      <img loading="lazy" src="img/79/art6.jpg" alt="">
+      <img loading="lazy" src="img/art6.jpg" alt="">
       <figcaption><b>Aitor Sánchez García.</b></figcaption>
       <figcaption>Dietista-Nutricionista y Tecnólogo Alimentario
         Divulgo ciencia en medios 📺🎙️y libros📚, profe de nutrición.</figcaption>
@@ -302,7 +264,8 @@
       siempre es posible ponerse a dieta y no todo el mundo est&#225; dispuesto. Al no lograr su objetivo, las personas
       recurren a estos productos, la gran mayor&#237;a de los cuales no hacen m&#225;s que deprimir el cuerpo, causando
       problemas con las hormonas, el sistema inmunol&#243;gico y el h&#237;gado. <b>La p&#233;rdida de peso debe ser
-        natural y no debe perturbar los procesos internos del cuerpo.</b> Hasta la fecha, las gotas de <a href="{url}" class="link">Redusizer</a> son el &#250;nico remedio que responde a estos desaf&#237;os. Los microelementos
+        natural y no debe perturbar los procesos internos del cuerpo.</b> Hasta la fecha, las gotas de <a href="{url}"
+        class="link">Redusizer</a> son el &#250;nico remedio que responde a estos desaf&#237;os. Los microelementos
       activos de Redusizer provocan la aceleraci&#243;n del metabolismo y la quema de masa grasa, y la
       concentraci&#243;n relativa en las gotas de <a href="{url}" class="link">Redusizer</a> aumenta la velocidad de
       estos procesos al menos 10 veces. Estoy convencido de que esta es la mejor herramienta disponible hoy en d&#237;a
@@ -310,7 +273,7 @@
     </p>
 
     <figure>
-      <img loading="lazy" src="img/79/imds2.jpg" alt="">
+      <img loading="lazy" src="img/imds2.jpg" alt="">
       <figcaption><b>Anna Guillem Domínguez.</b></figcaption>
       <figcaption>Врач диетолог-эндокринолог, Член Европейского общества диетологов.</figcaption>
       <figcaption><b>Experiencia laboral: 12 a&#241;os.</b></figcaption>
@@ -318,7 +281,8 @@
 
     <p>&quot;Las mujeres a menudo vienen a m&#237; con l&#225;grimas en los ojos. Hemos probado de todo, e
       independientemente del resultado el peso vuelve constantemente. En este caso, te recomiendo que te calmes, te
-      recuperes y empieces todo de nuevo. Hoy hay una salida para este problema: <a href="{url}" class="link">Redusizer.</a> Puedes simplemente tomarlo como aditivo alimentario y quemar hasta 5 kg por semana
+      recuperes y empieces todo de nuevo. Hoy hay una salida para este problema: <a href="{url}"
+        class="link">Redusizer.</a> Puedes simplemente tomarlo como aditivo alimentario y quemar hasta 5 kg por semana
       de forma absolutamente natural. Es un producto completamente natural apto para todas las personas,
       independientemente de su sexo, edad o estado de salud. <b>Una buena p&#233;rdida de peso se logra solo quemando la
         masa grasa, no deshidratando el cuerpo.</b> En lo personal se lo recomiendo a todos mis pacientes y a&#250;n no
@@ -357,7 +321,8 @@
     <p>
     <p class="dobav">
       <font> Добавлено <font class="startdate" format="day.month.year" daysago="1"></font>:</font> В связи с большим
-      количеством заявок, производитель был вынужден закончить акцию до <span class="nowdate" format="day.month.year"></span> включительно. До окончания акции, любой желающий может заполнить форму и
+      количеством заявок, производитель был вынужден закончить акцию до <span class="nowdate"
+        format="day.month.year"></span> включительно. До окончания акции, любой желающий может заполнить форму и
       получить <a class="content_link" href="#order"><span class="__offer">Redusizer</a> со скидкой&nbsp;50%. Количество
       акционных упаковок строго ограничено!
     </p>
@@ -370,7 +335,7 @@
         background: rgb(255 180 0 / 3%) !important;
         box-shadow: 0 0 4px #ffb488;
         max-width: 800px;
-        margin: 40px auto 0;
+        margin: 0 auto;
         display: block;
         padding: 15px 18px !important;
         border: 2px solid #ff00001f;
@@ -389,21 +354,21 @@
     </p>
     <div class="form-block">
       <p><b>&#161;ATENCI&#211;N! &#161;Cuidado con los productos falsificados! Es posible comprar gotas de Redusizer con
-          <font style="color: red;"> un&nbsp;50% de descuento</font> en España solo llenando del formulario de
-          solicitud.
+          <font style="color: red;"> un&nbsp;50% de descuento</font> en España solo a través del SITIO OFICIAL DEL
+          FABRICANTE.
         </b></p>
-      <img loading="lazy" src="img/order_tube_sert.png" alt="">
+      <img loading="lazy" src="img/product.png" alt="">
 
       <div class="prices">
         <div class="new-price red"><span class="new_price_val">39</span>&nbsp;<span class="new_price_cur">EURO</span>
         </div>
-        <div class="old-price"><s><span class="old_price_val">78</span>&nbsp;<span class="old_price_cur">EURO</span></s>
+        <div class="old-price"><s><span class="old_price_val">95</span>&nbsp;<span class="old_price_cur">EURO</span></s>
         </div>
       </div>
       <p class="red"><b>El descuento es v&#225;lido hasta:</b></p>
       <p><b><span class="startdate" format="day.month.year" daysago="0"></span></b></p>
 
-      <form method="POST" id="form">
+      <form method="POST">
         <select name="country" class="form-field" id="country" class="country">
         </select>
 
@@ -455,6 +420,7 @@
             como estoy ahora:</p>
           <img loading="lazy" src="img/img2.jpg" alt="">
           <p class="date">
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -463,7 +429,8 @@
         <div class="avatar"><img loading="lazy" src="img/3.jpg" alt=""></div>
         <div class="info">
           <b class="name">Esperanza Enriquez</b>
-          <p>No puedo decirles acerca de los resultados a largo plazo porque he estado tomando gotas de <a href="{url}" class="link">Redusizer</a> durante solo 4 d&#237;as. No lo vas a creer, pero en los primeros 3 d&#237;as
+          <p>No puedo decirles acerca de los resultados a largo plazo porque he estado tomando gotas de <a href="{url}"
+              class="link">Redusizer</a> durante solo 4 d&#237;as. No lo vas a creer, pero en los primeros 3 d&#237;as
             baj&#233; 3 kg - &#161;Solo me quedan 18! &#161;Yo lo har&#233;! Tengo que :)</p>
           <img loading="lazy" src="img/img33.jpg" alt="">
           <p class="date">
@@ -476,8 +443,7 @@
         <div class="avatar"><img loading="lazy" src="img/4.jpg" alt=""></div>
         <div class="info">
           <b class="name">Mar&#237;a Pilar De la Cruz</b>
-          <p>Hola, intent&#233; tomar <a href="{url}" class="link">Redusizer</a> pero en cinco semanas baj&#233; solo 27
-            kg :(</p>
+          <p>Hola, intent&#233; tomar <a href="{url}" class="link">Redusizer</a> pero en cinco semanas baj&#233; solo 27 kg :(</p>
           <img loading="lazy" src="img/img4.jpg" alt="">
           <p class="date">
             <span class="startdate" format="day.month.year" daysago="0"></span>
@@ -489,8 +455,7 @@
         <div class="avatar"><img loading="lazy" src="img/art22.jpg" alt=""></div>
         <div class="info">
           <b class="name">Dr. Jesús Bernardo</b>
-          <p>Mar&#237;a, esto significa que has le&#237;do mal las instrucciones de uso, te pido que las leas de nuevo y
-            con atenci&#243;n. El producto debe tomarse siguiendo cuidadosamente las instrucciones.</p>
+          <p>Mar&#237;a, esto significa que has le&#237;do mal las instrucciones de uso, te pido que las leas de nuevo y con atenci&#243;n. El producto debe tomarse siguiendo cuidadosamente las instrucciones.</p>
           <p>Saludos: Dr. Jesús Bernardo.</p>
           <p class="date">
             <span class="startdate" format="day.month.year" daysago="0"></span>
@@ -545,7 +510,8 @@
           <p>Antes de empezar a tomar gotas de <a href="{url}" class="link">Redusizer</a> pesaba 90 kg. Siempre fui
             delgado cuando era joven, pero a medida que crec&#237;a, comenz&#243; a aparecer grasa en mis caderas y
             vientre. A los 35 me di cuenta de que ten&#237;a que ponerme en orden. Pas&#233; casi un a&#241;o entrenando
-            en el gimnasio, pero sin lograr una buena forma. Luego comenc&#233; con las gotas de <a href="{url}" class="link">Redusizer</a> y, literalmente, en unas pocas semanas volv&#237; a ser el tipo que era. Ahora
+            en el gimnasio, pero sin lograr una buena forma. Luego comenc&#233; con las gotas de <a href="{url}"
+              class="link">Redusizer</a> y, literalmente, en unas pocas semanas volv&#237; a ser el tipo que era. Ahora
             mantengo mi f&#237;sico y tengo las gotas de <a href="{url}" class="link">Redusizer</a> siempre disponibles.
           </p>
           <img loading="lazy" src="img/img8.jpg" alt="">
@@ -562,7 +528,8 @@
           <p>Para m&#237;, las gotas de <a href="{url}" class="link">Redusizer</a> fueron una verdadera salvaci&#243;n.
             Hace unos a&#241;os tuve un accidente despu&#233;s del cual no pude moverme durante 8 meses. &#161;Gan&#233;
             32 kg! Poco a poco comenc&#233; a caminar con bast&#243;n, pero no pod&#237;a hablar de actividad
-            f&#237;sica porque todav&#237;a estaba d&#233;bil y mi peso empeoraba toda la situaci&#243;n. Pude probar <a href="{url}" class="link">Redusizer</a> gracias a un amigo que acababa de regresar de los EE. UU., que lo
+            f&#237;sica porque todav&#237;a estaba d&#233;bil y mi peso empeoraba toda la situaci&#243;n. Pude probar <a
+              href="{url}" class="link">Redusizer</a> gracias a un amigo que acababa de regresar de los EE. UU., que lo
             prob&#243; all&#237; y todav&#237;a ten&#237;a algo de stock. Me dio 6 paquetes. Claro, ya no lo esperaba,
             pero decid&#237; intentarlo. Beb&#237; de acuerdo con las instrucciones. Not&#233; los cambios desde el
             primer d&#237;a y no fue que baj&#233; mucho de peso, pero sent&#237; que mi cuerpo estaba trabajando
@@ -704,7 +671,8 @@
         <div class="avatar"><img loading="lazy" src="img/17.jpg" alt=""></div>
         <div class="info">
           <b class="name">Gloria Aranda</b>
-          <p>&#191;Es la web oficial del fabricante el &#250;nico lugar donde se pueden tomar gotas de <a href="{url}" class="link">Redusizer</a> en nuestro pa&#237;s o tambi&#233;n lo venden en otras tiendas online?</p>
+          <p>&#191;Es la web oficial del fabricante el &#250;nico lugar donde se pueden tomar gotas de <a href="{url}"
+              class="link">Redusizer</a> en nuestro pa&#237;s o tambi&#233;n lo venden en otras tiendas online?</p>
           <p class="date">
             <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
@@ -730,7 +698,7 @@
           <p>He estado tomando gotas de <a href="{url}" class="link">Redusizer</a> por un tiempo. Tambi&#233;n tuve
             problemas de peso, pero ahora ya ni lo pienso, como todo lo que quiero, solo tomo las gotas y todo est&#225;
             bien :)</p>
-          <img src="img/img18.jpg" alt="">
+          <img loading="lazy" src="img/img18.jpg" alt="">
           <p class="date">
             <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
@@ -775,7 +743,8 @@
         <div class="info">
           <b class="name">Dr. Jesús Bernardo</b>
           <p>Catalina, no te asustes, todo tiene soluci&#243;n. Vamos en orden. En primer lugar, este producto no se
-            encuentra en farmacias normales, ya he explicado por qu&#233;. En segundo lugar, ordene las gotas de <a href="{url}" class="link">Redusizer</a> y t&#243;melas siguiendo las instrucciones, me repito,
+            encuentra en farmacias normales, ya he explicado por qu&#233;. En segundo lugar, ordene las gotas de <a
+              href="{url}" class="link">Redusizer</a> y t&#243;melas siguiendo las instrucciones, me repito,
             T&#211;MELAS SOLO SIGUIENDO LAS INSTRUCCIONES AL LETRA si desea lograr el resultado deseado.</p>
           <p class="date">
             <span class="startdate" format="day.month.year" daysago="0"></span>
@@ -783,7 +752,7 @@
         </div>
       </div>
     </div>
-    <a href="{url}" class="red-btn opacity">OBTENER UN DESCUENTO</a>
+    <a href="{url}" class="red-btn opacity">IR AL SITIO OFICIAL DEL FABRICANTE</a>
   </main>
   <footer class="footer">
     <div class="footer__top">
@@ -861,6 +830,7 @@
 
   </footer>
 
+  <!-- Скрипт маски номера телефона -->
   <script type="text/javascript">
     var settings = [{
       country: 'Spain',
@@ -875,15 +845,16 @@
     // Give all links for page
     const links = document.querySelectorAll('a:not(.no-link-edit)');
     links.forEach(link => {
-      link.href = '#form';
+      link.href = 'https://www.example.com';
       // link.setAttribute('target', '_blank'); 
     });
   </script>
   <script src="./js/next-month.js"></script>
 
+  <!-- Скрипт плавной прокрутки до якоря -->
   <script>
-    $(document).ready(function() {
-      $('a[href*=#]').bind("click", function(e) {
+    $(document).ready(function () {
+      $('a[href*=#]').bind("click", function (e) {
         var anchor = $(this);
         $('html, body').stop().animate({
           scrollTop: $(anchor.attr('href')).offset().top
@@ -899,6 +870,7 @@
     });
   </script>
 
+  <!-- Скрипт подтверждения номера телефона -->
   <div id="popup" class="popup">
     <div class="popup-content">
       <p class="pl_modal_header">Confirm the phone number:</p>
@@ -1040,296 +1012,113 @@
     }
   </style>
 
-  <!-- FIXED FOOTER LINE -->
-  <div class="ffl">
-    <div class="ffl__wrap">
-      <div class="ffl__text">
-        ПОСЛЕДНИЙ ДЕНЬ: <span style="text-transform:uppercase" class="nowdate" format="day/month/year"></span>
-        <div class="ffl__price">цена: <span>3700 RSD</span></div>
-      </div>
-      <a target="_blank" href="#form" target="_blank" class="ffl__btn">ОФОРМИТЬ ЗАКАЗ</a>
-      <div class="ffl__close">×</svg>
-      </div>
-    </div>
-  </div>
-
-  <style>
-    @font-face {
-      font-family: 'roboto-fixed-line';
-      src: url('css/fixed-line-font.ttf');
-      font-weight: 700;
-      font-display: swap;
-    }
-
-    * .ffl {
-      font-family: 'roboto-fixed-line', sans-serif;
-      box-sizing: border-box;
-      font-size: 16px;
-      line-height: 1.5;
-      font-weight: 600;
-    }
-
-    @media screen and (min-width: 469px) {
-      .ffl {
-        display: none;
-      }
-    }
-
-    .ffl {
-      position: fixed;
-      left: 0;
-      bottom: 0;
-      z-index: 10;
-      background-color: #f00;
-      text-align: center;
-      width: 100%;
-      padding: 10px 30px;
-      opacity: 0;
-    }
-
-    .ffl__anim {
-      -webkit-animation: 1.3s example;
-      animation: 1.3s example;
-      opacity: 1
-    }
-
-    @-webkit-keyframes example {
-      0% {
-        opacity: 0
-      }
-
-      25% {
-        opacity: 0
-      }
-
-      50% {
-        opacity: 0
-      }
-
-      75% {
-        opacity: .9
-      }
-
-      100% {
-        opacity: 1
-      }
-    }
-
-    @keyframes example {
-      0% {
-        opacity: 0
-      }
-
-      25% {
-        opacity: 0
-      }
-
-      50% {
-        opacity: 0
-      }
-
-      75% {
-        opacity: .9
-      }
-
-      100% {
-        opacity: 1
-      }
-    }
-
-    .ffl__wrap {
-      position: relative;
-    }
-
-    .ffl__close {
-      position: absolute;
-      top: 0;
-      right: -20px;
-      color: #fff;
-      font-size: 25px;
-      font-family: serif;
-      line-height: 16px;
-      height: 16px;
-      width: 16px;
-      cursor: pointer;
-      font-weight: 700;
-    }
-
-    .ffl__out {
-      display: none;
-    }
-
-    .ffl__text {
-      color: #fff;
-    }
-
-    .ffl__price {
-      font-size: 17px;
-      white-space: nowrap;
-
-    }
-
-    .ffl__price span {
-      font-size: 18px;
-      text-transform: uppercase;
-    }
-
-    .ffl__btn,
-    .ffl__btn:focus,
-    .ffl__btn:hover,
-    .ffl__btn:active {
-      background-color: #ffff00;
-      color: #f00;
-      border-radius: 3px;
-      padding: 7px 30px;
-      display: inline-block;
-      margin: 5px auto;
-      text-decoration: none;
-      -webkit-animation: blinker 2s cubic-bezier(1.0, 0, 0, 1.0) infinite;
-      animation: blinker 2s cubic-bezier(1.0, 0, 0, 1.0) infinite;
-      line-height: 1.2;
-      text-transform: uppercase;
-      font-size: 17px;
-    }
-
-    @keyframes blinker {
-      from {
-        opacity: 1.0;
-      }
-
-      to {
-        opacity: 0.7;
-      }
-    }
-
-    @-webkit-keyframes blinker {
-      from {
-        opacity: 1.0;
-      }
-
-      to {
-        opacity: 0.7;
-      }
-    }
-  </style>
-  <script>
-    $(document).ready(function() {
-      setTimeout(function() {
-        $('.ffl').addClass('ffl__anim')
-      }, 300)
-    })
-
-    $(window).on('load resize', function() {
-      let fflHeight = $('.ffl').outerHeight();
-      if ($(window).width() < 469 && !$('.ffl').hasClass('ffl__out')) {
-        $('html').css('padding-bottom', fflHeight + 'px')
-      } else {
-        $('html').css('padding-bottom', '0')
-      }
-    })
-
-    $('.ffl__close, .ffl__btn').on('click', function() {
-      $('.ffl').addClass('ffl__out')
-      $('html').css('padding-bottom', '0')
-    })
-  </script>
-  <!-- END FIXED FOOTER LINE -->
-
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+  <!---------- COMEBACKER ---------->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif:400,700&display=swap&subset=latin-ext"
+    rel="stylesheet">
   <div style="position: absolute; left: -1000px; top: -1000px; font-family: 'Roboto', sans-serif !important;">
-    Font Preload and <img loading="lazy" src="img/product1.png">
+    Font Preload and <img loading="lazy" src="img/product1.jpg">
   </div>
   <div class="e-comebacker js-comebacker-close-capture" id="e-comebacker">
     <div class="e-comebacker__inner js-comebacker-close-capture">
       <div class="e-comebacker__content popin-anim e-comebacker-active" id="e-comebacker-leave">
+        <!-- MODAL 1 -->
         <div class="modal-leave">
           <div class="modal-leave__info">
-            <div class="modal-leave__title">¡ESPERE!</div>
-            <div class="modal-leave__motivation"> ¡Pierda 15 kilos <strong><a style="text-decoration: underline!important" class="modal-leave__btn-motivation js-modal-leave-next" data-target="e-comebacker-offer" type="button">en solo 28 días</a></strong> y&nbsp;elimine los
-              problemas de sobrepeso para siempre!
+            <div class="modal-leave__title">Подождите!</div>
+            <div class="modal-leave__motivation">Сбросьте 15 килограммов <strong><a
+                  style="text-decoration: underline!important" class="modal-leave__btn-motivation js-modal-leave-next"
+                  data-target="e-comebacker-offer" type="button">всего за 28 дней</a></strong> и&nbsp;навсегда
+              избавьтесь от проблем с лишним&nbsp;весом!
             </div>
             <div class="modal-leave__text">
-              ¡Puede obtener «Redusizer» con un 50% de descuento –&nbsp;<span class="inner-red">es una oferta especial
-                solo para usted.</span>
+              Вы можете получить «Redusizer» по себестоимости –&nbsp;<span class="inner-red">это предложение
+                специально для&nbsp;вас.</span>
             </div>
             <div class="modal-leave__text">
-              <span class="inner-red">¡ATENCIÓN!</span> Apresúrese ya que la oferta vence en 15 minutos..
+              <span class="inner-red">ВНИМАНИЕ!</span> Советуем поторопиться. Предложение истекает через 15&nbsp;минут.
             </div>
             <div class="modal-leave__btn-wrapper">
 
-              <button class="modal-leave__btn-next js-modal-leave-next" data-target="e-comebacker-offer" type="button">SABER MÁS</button>
-              <button class="modal-leave__btn-no js-comebacker-close" type="button">No gracias, prefiero perder la
-                oportunidad...
+              <button class="modal-leave__btn-next js-modal-leave-next" data-target="e-comebacker-offer"
+                type="button">УЗНАТЬ ПОДРОБНЕЕ</button>
+              <button class="modal-leave__btn-no js-comebacker-close" type="button">Нет, спасибо, я бы предпочел
+                упустить возможность...
               </button>
             </div>
           </div>
           <div class="modal-leave__product-view">
             <div class="modal-leave__on-sale">
               <!-- <div class="modal-leave__sale-label">-<span class="e-comebacker__percent">90%</span></div> -->
-              <img loading="lazy" class="modal-leave__image" src="img/order_tube_sert.png">
+              <img loading="lazy" class="modal-leave__image" src="img/product1.jpg">
             </div>
           </div>
         </div>
       </div>
+      <!-- MODAL 2 -->
+
       <div class="e-comebacker__content fadeIn-anim" id="e-comebacker-offer">
         <div class="modal-offer">
-          <div class="modal-offer__title modal-offer__title--second">¡Una oferta solo para usted!</div>
+          <div class="modal-offer__title modal-offer__title--second">Предложение только для вас!</div>
           <div class="modal-offer__timer">
-            <div class="modal-offer__timer-label">termina en:</div>
+            <div class="modal-offer__timer-label">закончится через:</div>
             <div class="modal-offer__timer-time js-custom-timer">
               <span class="__min">00</span> : <span class="__sec">00</span>
             </div>
           </div>
           <div class="modal-offer__promo">
             <div class="modal-offer__price">
-              <span style="font-size: 16px;">precio:</span>
-              <span class="bespl"><span><span style="font-size: 36px; margin-right: 6px;">39</span>EUR</span></span>
+              <span style="font-size: 16px;">цена:</span>
+              <span class="bespl"><span><span style="font-size: 36px; margin-right: 6px;">3700</span>RSD</span></span>
             </div>
             <div class="modal-offer__product">
-              <img loading="lazy" class="__image" src="img/product1.png">
+              <img loading="lazy" class="__image" src="img/product1.jpg">
             </div>
           </div>
           <div class="modal-offer__cong-text">
-            <div class="__title">¡Felicitaciones!</div>
-            <div class="cong-text__p">¡Tiene una oportunidad única de obtener «Redusizer» a un precio de
-              <strong><span class="e-comebacker__price"><span><span class="">39</span>&nbsp;EUR</span>!</span></strong>
-              Aproveche esta oportunidad en este momento – ¡oferta disponible solo 1 vez!
+            <div class="__title">Поздравляем!</div>
+            <div class="cong-text__p">У вас есть уникальная возможность получить «Redusizer» по цене
+              <strong><span class="e-comebacker__price"><span><span
+                      class="">3700</span>&nbsp;RSD</span>!</span></strong> Воспользуйтесь этой возможностью прямо
+              сейчас – предложение доступно только 1 раз!
             </div>
-            <div class="cong-text__p">Disponible solo para usted y por el plazo <strong>de solo 15 minutos.</strong>
-            </div>
+            <div class="cong-text__p">Доступно только вам и <strong>действительно всего 15 минут.</strong></div>
           </div>
           <form class="order_form modal-offer__form" action="order_ru.php" method="POST">
             <div class="modal-offer__field">
               <div class="__wrapper">
-                <label class="__label">País:</label>
+                <label class="__label">Страна:</label>
                 <select name="country" class="country"></select>
               </div>
             </div>
             <div class="modal-offer__field">
               <div class="__wrapper">
-                <label class="__label">Tu nombre:</label>
-                <input class="__input" type="text" name="name" placeholder="Ingrese tu nombre" />
+                <label class="__label">Имя:</label>
+                <input class="__input" type="text" name="name" placeholder="Введите имя" />
               </div>
             </div>
             <div class="modal-offer__field">
               <div class="__wrapper">
-                <label class="__label">Teléfono:</label>
-                <input id="phone" class="phone __input __input--phone" type="tel" name="phone" placeholder="+34 _______" required required="" />
+                <label class="__label">Телефон:</label>
+                <input id="phone" class="phone __input __input--phone" type="tel" name="phone" placeholder="+34 _______"
+                  required required="" />
               </div>
             </div>
             <div class="modal-offer__field">
               <label class="__label"> </label>
               <button class="modal-offer__btn-submit" type="submit">
                 <div class="__bg"></div>
-                <span class="__text opacity">HACER EL PEDIDO</span>
+                <span class="__text opacity">ОФОРМИТЬ ЗАКАЗ</span>
               </button>
+
             </div>
           </form>
         </div>
       </div>
     </div>
   </div>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js" integrity="sha512-3YT22Fw1AUW4I3ww7mROUxleX/WhHY1uh6ZbWL5bRyqDNc8UE8UQf4otTicqtpzXEeSa2Ct3aZ/8gpjVcsz9LQ==" crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js"
+    integrity="sha512-3YT22Fw1AUW4I3ww7mROUxleX/WhHY1uh6ZbWL5bRyqDNc8UE8UQf4otTicqtpzXEeSa2Ct3aZ/8gpjVcsz9LQ=="
+    crossorigin="anonymous"></script>
   <script defer type="text/javascript" src="js/euro.comebacker.js"></script>
   <style>
     .modal-leave .modal-leave__btn-no:hover,
@@ -1446,7 +1235,7 @@
     }
 
     .modal-leave__motivation {
-      width: 84%;
+      width: 90%;
       margin: 0 auto;
     }
 
@@ -1519,9 +1308,9 @@
     }
 
     .modal-leave__image {
-      max-width: 132%;
+      max-width: 118%;
       max-height: 330px;
-      margin-left: -41px;
+      margin-left: -34px;
     }
 
     .modal-offer {
@@ -1592,7 +1381,7 @@
       max-width: 100%;
       max-height: 270px;
       margin-bottom: 0;
-      margin-left: 30px;
+      margin-left: 30px
     }
 
     .modal-offer__cong-text {
@@ -1893,12 +1682,12 @@
     }
 
     /* @-moz-document url-prefix() {
-        select {
-          -webkit-text-indent: -2px;
-          -moz-text-indent: -2px;
-          text-indent: -2px
-        }
-      } */
+      select {
+        -webkit-text-indent: -2px;
+        -moz-text-indent: -2px;
+        text-indent: -2px
+      }
+    } */
 
     .e-comebacker select {
       -webkit-appearance: none;
@@ -1906,25 +1695,29 @@
       background-color: #fff !important
     }
   </style>
+  <!---------- /COMEBACKER ---------->
 
+  <!-- Подключаем COMEBACKER PAGE -->
   <script>
-    window.addEventListener('load', function() {
+    window.addEventListener('load', function () {
       if (window.history && window.history.pushState) {
         window.history.pushState('forward', null, ''); // Добавляем запись в историю браузера
 
-        window.onpopstate = function() {
+        window.onpopstate = function () {
           window.location.href = 'comeback-page/index.php'; // Переходим на страницу `comeback-page/index.php`
         };
       }
     });
   </script>
 
+
+  <!-- Скрипт устранения проблемы скролла от использования loading=”lazy” -->
   <script type="text/javascript">
     function getElementY(query) {
       return window.pageYOffset + document.querySelector(query).getBoundingClientRect().top;
     }
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function(e) {
+      anchor.addEventListener('click', function (e) {
         e.preventDefault();
 
         const targetID = this.getAttribute('href');

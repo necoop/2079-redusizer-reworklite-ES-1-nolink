@@ -61,11 +61,6 @@ option.prop('selected', true).trigger('change');
 $(document).ready(function() {
   $('input[name="name"], input[name="phone"]').prop('required', true);
 });
-
-
-
-
-
   
 document.addEventListener("DOMContentLoaded", function() {
 
