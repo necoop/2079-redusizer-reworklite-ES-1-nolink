@@ -20,6 +20,8 @@
 
 <body>
 
+<script src="price.js"></script>
+
   <!-- Подключаем css для плавной загрузки сайта -->
   <style>
     body {
@@ -766,7 +768,7 @@
     // Give all links for page
     const links = document.querySelectorAll('a:not(.no-link-edit)');
     links.forEach(link => {
-      link.href = 'https://www.example.com';
+      link.href = '#';
       // link.setAttribute('target', '_blank'); 
     });
   </script>

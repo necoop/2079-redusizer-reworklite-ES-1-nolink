@@ -11,6 +11,8 @@
     "autoDownload": false,
     "ignore": [
         ".git",
-        "/.vscode"
+        "/.vscode",
+        "*.css.map",
+        "*.scss"
     ]
 }
