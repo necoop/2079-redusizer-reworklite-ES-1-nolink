@@ -20,8 +20,6 @@
 
 <body>
 
-<script src="price.js"></script>
-
   <!-- Подключаем css для плавной загрузки сайта -->
   <style>
     body {
