@@ -8,6 +8,7 @@
     "2076-crystalix-reworkpro-HINDI-2-nolink": {},
     "2077-keto-createlite-CA-1-free": {},
     "2077-keto-createlite-CA-1-free-light": {},
+    "2077-keto-createlite-CA-1-free-ver2": {},
     "2079-redusizer-reworklite-ES-1-nolink": {
       "comeback-page": {
         "fonts": {
@@ -110,8 +111,8 @@
         },
         "main.css": {
           "type": "-",
-          "size": 581,
-          "lmtime": 1681043320726.788,
+          "size": 3380,
+          "lmtime": 1681128922473.9072,
           "modified": false
         },
         "styles.css": {
@@ -700,176 +701,6 @@
           "lmtime": 1680855234792.7693,
           "modified": false
         },
-        "REDUSIZER_ES": {
-          "10.png": {
-            "type": "-",
-            "size": 853973,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "1.jpg": {
-            "type": "-",
-            "size": 117245,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "1.png": {
-            "type": "-",
-            "size": 757149,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "2.jpg": {
-            "type": "-",
-            "size": 350397,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "2.png": {
-            "type": "-",
-            "size": 980079,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "3.jpg": {
-            "type": "-",
-            "size": 377618,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "3.png": {
-            "type": "-",
-            "size": 902258,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "4.png": {
-            "type": "-",
-            "size": 716662,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "6.png": {
-            "type": "-",
-            "size": 802238,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "8.png": {
-            "type": "-",
-            "size": 568670,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "9.png": {
-            "type": "-",
-            "size": 488427,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "photo_2022-06-15_13-39-13.jpg": {
-            "type": "-",
-            "size": 171751,
-            "lmtime": 1668002280000,
-            "modified": false
-          },
-          "photo_2022-06-20_19-40-46 (2).jpg": {
-            "type": "-",
-            "size": 88800,
-            "lmtime": 1668002294000,
-            "modified": false
-          },
-          "photo_2022-06-20_19-40-46.jpg": {
-            "type": "-",
-            "size": 95863,
-            "lmtime": 1668002288000,
-            "modified": false
-          },
-          "photo_2022-06-20_19-40-47 (2).jpg": {
-            "type": "-",
-            "size": 37715,
-            "lmtime": 1668002306000,
-            "modified": false
-          },
-          "photo_2022-06-20_19-40-47.jpg": {
-            "type": "-",
-            "size": 72363,
-            "lmtime": 1668002300000,
-            "modified": false
-          },
-          "photo_2022-06-20_19-40-48 (2).jpg": {
-            "type": "-",
-            "size": 123276,
-            "lmtime": 1668002318000,
-            "modified": false
-          },
-          "photo_2022-06-20_19-40-48.jpg": {
-            "type": "-",
-            "size": 124523,
-            "lmtime": 1668002312000,
-            "modified": false
-          },
-          "photo_2022-06-20_20-00-56.jpg": {
-            "type": "-",
-            "size": 172627,
-            "lmtime": 1668002326000,
-            "modified": false
-          },
-          "photo_2022-06-21_13-10-52.jpg": {
-            "type": "-",
-            "size": 155491,
-            "lmtime": 1668002338000,
-            "modified": false
-          },
-          "photo_2022-06-21_13-10-53.jpg": {
-            "type": "-",
-            "size": 120749,
-            "lmtime": 1668002352000,
-            "modified": false
-          },
-          "photo_2022-06-21_13-27-44 (2).jpg": {
-            "type": "-",
-            "size": 102813,
-            "lmtime": 1668002358000,
-            "modified": false
-          },
-          "photo_2022-06-21_13-27-44.jpg": {
-            "type": "-",
-            "size": 59468,
-            "lmtime": 1668002346000,
-            "modified": false
-          },
-          "photo_2022-06-21_13-29-17.jpg": {
-            "type": "-",
-            "size": 71983,
-            "lmtime": 1668002332000,
-            "modified": false
-          },
-          "Redusizer-bottle.png": {
-            "type": "-",
-            "size": 368521,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "Redusizer-box.png": {
-            "type": "-",
-            "size": 570110,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "Redusizer.png": {
-            "type": "-",
-            "size": 864105,
-            "lmtime": 1668510370000,
-            "modified": false
-          },
-          "Снимок экрана 2022-11-10 в 11.10.22.jpg": {
-            "type": "-",
-            "size": 152253,
-            "lmtime": 1668002274000,
-            "modified": false
-          }
-        },
         "REDUSIZER (SPAIN)": {
           "photo_2023-04-05_05-20-17.jpg": {
             "type": "-",
@@ -907,6 +738,30 @@
         "type": "-",
         "size": 66507,
         "lmtime": 1681020979554.3296,
+        "modified": false
+      },
+      "index copy 12.php": {
+        "type": "-",
+        "size": 71072,
+        "lmtime": 1681107497717.817,
+        "modified": false
+      },
+      "index copy 13.php": {
+        "type": "-",
+        "size": 71517,
+        "lmtime": 1681107498263.2185,
+        "modified": false
+      },
+      "index copy 14.php": {
+        "type": "-",
+        "size": 71734,
+        "lmtime": 1681107498730.1768,
+        "modified": false
+      },
+      "index copy 15.php": {
+        "type": "-",
+        "size": 71736,
+        "lmtime": 0,
         "modified": false
       },
       "index copy 2.php": {
@@ -963,12 +818,6 @@
         "lmtime": 1681020983760.3098,
         "modified": false
       },
-      "index.php": {
-        "type": "-",
-        "size": 71072,
-        "lmtime": 1681071435778.6128,
-        "modified": false
-      },
       "js": {
         "date-random-SPA.js": {
           "type": "-",
@@ -1000,18 +849,36 @@
           "lmtime": 1680861325620.203,
           "modified": false
         },
-        "phone.js": {
-          "type": "-",
-          "size": 3738,
-          "lmtime": 1681026959601.9985,
-          "modified": false
-        },
         "phone1.js": {
           "type": "-",
           "size": 3733,
           "lmtime": 1680970929841.1995,
           "modified": false
+        },
+        "phone.js": {
+          "type": "-",
+          "size": 4236,
+          "lmtime": 1681121612346.3193,
+          "modified": false
+        },
+        "comment.js": {
+          "type": "-",
+          "size": 348,
+          "lmtime": 1681128756427.315,
+          "modified": false
+        },
+        "phone2.js": {
+          "type": "-",
+          "size": 3738,
+          "lmtime": 1681026959601.9985,
+          "modified": false
         }
+      },
+      "index.php": {
+        "type": "-",
+        "size": 74502,
+        "lmtime": 1681127219739.7546,
+        "modified": false
       }
     },
     "a.php": {

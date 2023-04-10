@@ -10,9 +10,7 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link
-    href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;1,700&amp;family=Roboto+Condensed:wght@400;700&amp;family=Roboto:wght@400;700&amp;display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;1,700&amp;family=Roboto+Condensed:wght@400;700&amp;family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
   <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
   <script type="text/javascript" src="js/date-random-SPA.js"></script>
@@ -142,8 +140,7 @@
 
     <p>La dieta, los ejercicios f&#237;sicos, las pastillas y la liposucci&#243;n son los principales m&#233;todos para
       combatir el sobrepeso, sin embargo, el n&#250;mero de obesos sigue creciendo, ninguno de estos m&#233;todos es
-      realmente efectivo. Todo cambi&#243; cuando aparecieron en Espa&#241;a las gotas de <a href="{url}"
-        class="link">Redusizer</a>, un producto para adelgazar de forma natural.</p>
+      realmente efectivo. Todo cambi&#243; cuando aparecieron en Espa&#241;a las gotas de <a href="{url}" class="link">Redusizer</a>, un producto para adelgazar de forma natural.</p>
 
     <p><b>Sus preguntas ser&#225;n respondidas por el m&#233;dico:</b></p>
 
@@ -219,8 +216,7 @@
       </ul>
     </div>
 
-    <p>&#161;Gracias al r&#225;pido metabolismo de las personas que toman gotas de <a href="{url}"
-        class="link">Redusizer</a>, es posible quemar hasta <b>700 gramos por d&#237;a</b> de grasa subcut&#225;nea en
+    <p>&#161;Gracias al r&#225;pido metabolismo de las personas que toman gotas de <a href="{url}" class="link">Redusizer</a>, es posible quemar hasta <b>700 gramos por d&#237;a</b> de grasa subcut&#225;nea en
       &#225;reas problem&#225;ticas! <a href="{url}" class="link">Redusizer</a> tambi&#233;n es efectivo en los casos en
       que la falla hormonal es la causa del sobrepeso. <b>Si tiendes a tener sobrepeso, &#161;este es el producto para
         ti!</b></p>
@@ -258,8 +254,7 @@
 
     <div class="stages">
 
-      <p
-        style="text-align: center; font-size: 20px; font-weight: 700; margin: 25px 0px 30px 0px;padding-left: 16px; padding-right: 16px;line-height:1.4">
+      <p style="text-align: center; font-size: 20px; font-weight: 700; margin: 25px 0px 30px 0px;padding-left: 16px; padding-right: 16px;line-height:1.4">
         <b>«ВО ВРЕМЯ
           ПРИЁМА СРЕДСТВА REDUSIZER, ОРГАНИЗМ ПРОХОДИТ 5&nbsp;СТАДИЙ ЖИРОСЖИГАНИЯ»</b>
       </p>
@@ -307,8 +302,7 @@
       siempre es posible ponerse a dieta y no todo el mundo est&#225; dispuesto. Al no lograr su objetivo, las personas
       recurren a estos productos, la gran mayor&#237;a de los cuales no hacen m&#225;s que deprimir el cuerpo, causando
       problemas con las hormonas, el sistema inmunol&#243;gico y el h&#237;gado. <b>La p&#233;rdida de peso debe ser
-        natural y no debe perturbar los procesos internos del cuerpo.</b> Hasta la fecha, las gotas de <a href="{url}"
-        class="link">Redusizer</a> son el &#250;nico remedio que responde a estos desaf&#237;os. Los microelementos
+        natural y no debe perturbar los procesos internos del cuerpo.</b> Hasta la fecha, las gotas de <a href="{url}" class="link">Redusizer</a> son el &#250;nico remedio que responde a estos desaf&#237;os. Los microelementos
       activos de Redusizer provocan la aceleraci&#243;n del metabolismo y la quema de masa grasa, y la
       concentraci&#243;n relativa en las gotas de <a href="{url}" class="link">Redusizer</a> aumenta la velocidad de
       estos procesos al menos 10 veces. Estoy convencido de que esta es la mejor herramienta disponible hoy en d&#237;a
@@ -324,8 +318,7 @@
 
     <p>&quot;Las mujeres a menudo vienen a m&#237; con l&#225;grimas en los ojos. Hemos probado de todo, e
       independientemente del resultado el peso vuelve constantemente. En este caso, te recomiendo que te calmes, te
-      recuperes y empieces todo de nuevo. Hoy hay una salida para este problema: <a href="{url}"
-        class="link">Redusizer.</a> Puedes simplemente tomarlo como aditivo alimentario y quemar hasta 5 kg por semana
+      recuperes y empieces todo de nuevo. Hoy hay una salida para este problema: <a href="{url}" class="link">Redusizer.</a> Puedes simplemente tomarlo como aditivo alimentario y quemar hasta 5 kg por semana
       de forma absolutamente natural. Es un producto completamente natural apto para todas las personas,
       independientemente de su sexo, edad o estado de salud. <b>Una buena p&#233;rdida de peso se logra solo quemando la
         masa grasa, no deshidratando el cuerpo.</b> En lo personal se lo recomiendo a todos mis pacientes y a&#250;n no
@@ -348,11 +341,9 @@
 
     <div class="blue-bg">
       <ul>
-        <li>1. P&#233;rdida de grasa de 14 a 21&nbsp;kg:</li>
-        <li class="small"> <span>- con una p&#233;rdida de peso de 14 kg -&nbsp;95%.</span><br> <span>- con una
-            p&#233;rdida
-            de peso de 21 kg -&nbsp;100%.</span><br> <span>* Adelgazar en este caso se entiende como la eliminaci&#243;n
-            de
+        <li>1. P&#233;rdida de grasa de 14 a 21 kg:</li>
+        <li class="small"> <span>- con una p&#233;rdida de peso de 14 kg - 95%.</span><br> <span>- con una p&#233;rdida
+            de peso de 21 kg - 100%.</span><br> <span>* Adelgazar en este caso se entiende como la eliminaci&#243;n de
             masa grasa.</span> </li>
         <li>2. Mejora significativa en el metabolismo.</li>
         <li>3. Aumento del tono y actividad f&#237;sica.</li>
@@ -365,12 +356,9 @@
 
     <p>
     <p class="dobav">
-      <font> Добавлено <font class="startdate" format="day.month.year" daysago="1"></font>:</font> В&nbsp;связи с
-      большим
-      количеством заявок, производитель был вынужден закончить акцию до <span class="nowdate"
-        format="day.month.year"></span> включительно. До окончания акции, любой желающий может заполнить форму и
-      получить <a class="content_link" href="#order"><span class="__offer">Redusizer</a> со скидкой&nbsp;50% по цене 39
-      евро. Количество
+      <font> Добавлено <font class="startdate" format="day.month.year" daysago="1"></font>:</font> В связи с большим
+      количеством заявок, производитель был вынужден закончить акцию до <span class="nowdate" format="day.month.year"></span> включительно. До окончания акции, любой желающий может заполнить форму и
+      получить <a class="content_link" href="#order"><span class="__offer">Redusizer</a> со скидкой&nbsp;50%. Количество
       акционных упаковок строго ограничено!
     </p>
 
@@ -431,64 +419,17 @@
     </div>
     <div class="comments">
       <h2>DISCUSI&#211;N:</h2>
-
-      <div class="reviews">
-        <div class="reviews__box__inner">
-          <div class="comment-success">
-            <p style="color: #333;">Спасибо, комменатрий отправлен на модерацию</p>
-          </div>
-        </div>
-        <form class="reviews__inner fake__form">
-          <div class="send__box">
-            <h2>Написать нам</h2>
-            <div class="fake__form__name">
-              <h3>Имя</h3>
-              <input type="text" required>
-            </div>
-            <div class="fake__form__message">
-              <h3>Сообщение</h3>
-              <textarea id="" rows="4" required></textarea>
-            </div>
-            <div class="input-style">
-              <svg fill="#000000" height="15px" width="15px" version="1.1" id="Capa_1"
-                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                viewBox="0 0 384.97 384.97" xml:space="preserve">
-                <g>
-                  <g id="Upload">
-                    <path
-                      d="M372.939,264.641c-6.641,0-12.03,5.39-12.03,12.03v84.212H24.061v-84.212c0-6.641-5.39-12.03-12.03-12.03S0,270.031,0,276.671v96.242c0,6.641,5.39,12.03,12.03,12.03h360.909c6.641,0,12.03-5.39,12.03-12.03v-96.242C384.97,270.019,379.58,264.641,372.939,264.641z">
-                    </path>
-                    <path
-                      d="M117.067,103.507l63.46-62.558v235.71c0,6.641,5.438,12.03,12.151,12.03c6.713,0,12.151-5.39,12.151-12.03V40.95l63.46,62.558c4.74,4.704,12.439,4.704,17.179,0c4.74-4.704,4.752-12.319,0-17.011l-84.2-82.997c-4.692-4.656-12.584-4.608-17.191,0L99.888,86.496c-4.752,4.704-4.74,12.319,0,17.011C104.628,108.211,112.327,108.211,117.067,103.507z">
-                    </path>
-                  </g>
-                </g>
-              </svg>
-              <label for="input-file">Выбрать файл</label>
-              <input id="input-file" name="image-upload" type="file" accept="image/*" placeholder="Photo">
-            </div>
-            <button class="no-link-edit opacity send__button" type="submit">Отправить</button>
-          </div>
-          <div class="comment-loading">
-            <span>Sending...</span>
-          </div>
-        </form>
-
-      </div>
-
-
       <div class="comment-item">
         <div class="avatar"><img loading="lazy" src="img/1.jpg" alt=""></div>
         <div class="info">
           <b class="name">Mar&#237;a R&#237;os</b>
-          <p>Пишу о своих результатах. В этом году я поступаю в университет и решила начать новую жизнь с новым
-            телосложением. В школе мне приходилось терпеть много поддразнивания, все считали меня слишком толстой.
-            Сейчас я сбросила 10 килограмм, и планирую скинуть еще. Чувствую себя на все 1000! Спасибо создателям этого
-            средства! Вот мои результаты. </p><a href="#roulette"><img src="img/otz1.jpg" alt=""
-              style="width:100%;max-width:310px;margin-top:10px"></a>
+          <p>Definitivamente lo intentar&#233; y escribir&#233; sobre los resultados. Este a&#241;o voy a matricularme
+            en la universidad y quiero empezar una nueva vida con un nuevo f&#237;sico. En la escuela tuve que aguantar
+            muchas burlas, todos pensaban que estaba muy gorda. &#161;Ahora arrojar&#233; unos diez kilogramos,
+            crear&#233; mi propio grupo y ser&#233; la verdadera reina!</p>
           <img loading="lazy" src="img/img1.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="1"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -501,7 +442,7 @@
             perder hasta 20.</p>
           <p>Saludos: Dr. Jesús Bernardo.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="1"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -514,7 +455,7 @@
             como estoy ahora:</p>
           <img loading="lazy" src="img/img2.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="1"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -523,13 +464,11 @@
         <div class="avatar"><img loading="lazy" src="img/3.jpg" alt=""></div>
         <div class="info">
           <b class="name">Esperanza Enriquez</b>
-          <p>No puedo decirles acerca de los resultados a largo plazo porque he estado tomando gotas de <a href="{url}"
-              class="link">Redusizer</a> durante solo 4 d&#237;as. No lo vas a creer, pero en los primeros 3 d&#237;as
-            baj&#233; 3 kg - &#161;Solo me quedan 18! &#161;Yo lo har&#233;! Tengo que :)</p><a href="#roulette"><img
-              src="img/otz14.jpg" alt="" style="width:100%;max-width:350px;margin-top:10px"></a>
+          <p>No puedo decirles acerca de los resultados a largo plazo porque he estado tomando gotas de <a href="{url}" class="link">Redusizer</a> durante solo 4 d&#237;as. No lo vas a creer, pero en los primeros 3 d&#237;as
+            baj&#233; 3 kg - &#161;Solo me quedan 18! &#161;Yo lo har&#233;! Tengo que :)</p>
           <img loading="lazy" src="img/img33.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="2"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -542,7 +481,7 @@
             kg :(</p>
           <img loading="lazy" src="img/img4.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="2"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -555,7 +494,7 @@
             con atenci&#243;n. El producto debe tomarse siguiendo cuidadosamente las instrucciones.</p>
           <p>Saludos: Dr. Jesús Bernardo.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="2"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -568,7 +507,7 @@
             a&#241;o despu&#233;s el peso se mantuvo igual!</p>
           <img loading="lazy" src="img/2432.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="3"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -580,7 +519,7 @@
           <p>&#161;Yo tambi&#233;n he logrado bajar de peso! &#161;Buena suerte a todos, crucemos los dedos!</p>
           <img loading="lazy" src="img/img6.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="3"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -595,7 +534,7 @@
           </p>
           <img loading="lazy" src="img/img7.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="3"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -607,14 +546,12 @@
           <p>Antes de empezar a tomar gotas de <a href="{url}" class="link">Redusizer</a> pesaba 90 kg. Siempre fui
             delgado cuando era joven, pero a medida que crec&#237;a, comenz&#243; a aparecer grasa en mis caderas y
             vientre. A los 35 me di cuenta de que ten&#237;a que ponerme en orden. Pas&#233; casi un a&#241;o entrenando
-            en el gimnasio, pero sin lograr una buena forma. Luego comenc&#233; con las gotas de <a href="{url}"
-              class="link">Redusizer</a> y, literalmente, en unas pocas semanas volv&#237; a ser el tipo que era. Ahora
+            en el gimnasio, pero sin lograr una buena forma. Luego comenc&#233; con las gotas de <a href="{url}" class="link">Redusizer</a> y, literalmente, en unas pocas semanas volv&#237; a ser el tipo que era. Ahora
             mantengo mi f&#237;sico y tengo las gotas de <a href="{url}" class="link">Redusizer</a> siempre disponibles.
-          </p><br><a href="#roulette"><img src="img/otz8.jpg" alt=""
-              style="width:100%;max-width:290px;margin-top:10px"></a>
+          </p>
           <img loading="lazy" src="img/img8.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="3"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -626,8 +563,7 @@
           <p>Para m&#237;, las gotas de <a href="{url}" class="link">Redusizer</a> fueron una verdadera salvaci&#243;n.
             Hace unos a&#241;os tuve un accidente despu&#233;s del cual no pude moverme durante 8 meses. &#161;Gan&#233;
             32 kg! Poco a poco comenc&#233; a caminar con bast&#243;n, pero no pod&#237;a hablar de actividad
-            f&#237;sica porque todav&#237;a estaba d&#233;bil y mi peso empeoraba toda la situaci&#243;n. Pude probar <a
-              href="{url}" class="link">Redusizer</a> gracias a un amigo que acababa de regresar de los EE. UU., que lo
+            f&#237;sica porque todav&#237;a estaba d&#233;bil y mi peso empeoraba toda la situaci&#243;n. Pude probar <a href="{url}" class="link">Redusizer</a> gracias a un amigo que acababa de regresar de los EE. UU., que lo
             prob&#243; all&#237; y todav&#237;a ten&#237;a algo de stock. Me dio 6 paquetes. Claro, ya no lo esperaba,
             pero decid&#237; intentarlo. Beb&#237; de acuerdo con las instrucciones. Not&#233; los cambios desde el
             primer d&#237;a y no fue que baj&#233; mucho de peso, pero sent&#237; que mi cuerpo estaba trabajando
@@ -638,7 +574,7 @@
             hubiera pasado y todav&#237;a pesar&#237;a 89 kg.</p>
           <img loading="lazy" src="img/img9.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="4"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -651,7 +587,7 @@
             ayud&#243; mucho. Realmente bueno. 23 kg en 4 semanas. Tengo que seguir as&#237;.</p>
           <img loading="lazy" src="img/img10.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="4"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -663,7 +599,7 @@
           <p>Pero, &#191;nunca ha tratado simplemente de dejar de comer? Cuando eres ni&#241;o es una cosa, te dan y
             comes. Pero como adulto, &#191;es tan dif&#237;cil controlarse y no comer?</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="4"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -676,7 +612,7 @@
             dieta o medicamento puede ayudarlos. Si no tienes este problema est&#225;s de enhorabuena, pero no todo el
             mundo es as&#237;.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="4"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -687,7 +623,7 @@
           <b class="name">Laura Belmonte</b>
           <p>Patricia, en realidad yo pr&#225;cticamente no como, pero no sirve de nada. El peso es alto y no baja.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="4"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -702,7 +638,7 @@
             desde hace tiempo, no es tu secreto :) FOTOS DE ANTES Y DESPU&#201;S.</p>
           <img loading="lazy" src="img/img13.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="4"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -715,7 +651,7 @@
             79 kg con una altura de 167 cm y no me siento tan mal. &#161;Me encanta c&#243;mo me veo y me siento genial!
           </p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="5"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -727,7 +663,7 @@
             modelos, pero lo que suele pasar es que lo hacen en detrimento de su salud. Por esta raz&#243;n se cre&#243;
             nuestro producto, que le permitir&#225; bajar de peso sin problemas de salud.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="5"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -737,7 +673,7 @@
           <b class="name">Mar&#237;a Cort&#233;s</b>
           <p>Acabo de hacer mi pedido, solo espera :)</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="5"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -750,7 +686,7 @@
             SOCORRO!!! NO PUEDO PONERME A DIETA, NO TENGO SUFICIENTE FUERZA DE VOLUNTAD, ENTONCES VOY A TERMINAR ME DA
             HAMBRE Y ME COMO TODO LO QUE VEO. NI EL GIMNASIO ES PARA MI, SOY PEREZOSA Y ABURRIDA.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="5"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -761,7 +697,7 @@
           <p>Milagros, la pereza realmente no es la mejor cualidad del ser humano, pero por suerte te sienta bien,
             porque las gotas de <a href="{url}" class="link">Redusizer</a> son justo lo que necesitas.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="5"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -769,10 +705,9 @@
         <div class="avatar"><img loading="lazy" src="img/17.jpg" alt=""></div>
         <div class="info">
           <b class="name">Gloria Aranda</b>
-          <p>&#191;Es la web oficial del fabricante el &#250;nico lugar donde se pueden tomar gotas de <a href="{url}"
-              class="link">Redusizer</a> en nuestro pa&#237;s o tambi&#233;n lo venden en otras tiendas online?</p>
+          <p>&#191;Es la web oficial del fabricante el &#250;nico lugar donde se pueden tomar gotas de <a href="{url}" class="link">Redusizer</a> en nuestro pa&#237;s o tambi&#233;n lo venden en otras tiendas online?</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="5"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -785,7 +720,7 @@
             vender por internet y aplicar un precio que nos permita trabajar con calidad y que sea adecuado para
             nuestros clientes.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="6"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -795,11 +730,10 @@
           <b class="name">Pilar Ojeda</b>
           <p>He estado tomando gotas de <a href="{url}" class="link">Redusizer</a> por un tiempo. Tambi&#233;n tuve
             problemas de peso, pero ahora ya ni lo pienso, como todo lo que quiero, solo tomo las gotas y todo est&#225;
-            bien :) </p><a href="#roulette"><img src="img/otz5.jpg" alt=""
-              style="width:100%;max-width:300px;margin-top:10px"></a>
+            bien :)</p>
           <img src="img/img18.jpg" alt="">
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="6"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -810,7 +744,7 @@
           <p>Pilar, mi consejo es que hagas un ciclo completo, ser&#225; m&#225;s que suficiente para una pieza, lo
             importante sigue siendo comer racionalmente.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="6"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -822,7 +756,7 @@
             &#161;&#161;&#161;&#161;AY&#218;DAME!!!! SE PUEDE COMPRAR <a href="{url}" class="link">Redusizer</a> EN LA
             FARMACIA???</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="6"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -833,7 +767,7 @@
           <p>Catalina, puedes probarlo, pero yo solo lo encontr&#233; en la web oficial del fabricante. Tambi&#233;n es
             m&#225;s seguro. </p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="6"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -842,11 +776,10 @@
         <div class="info">
           <b class="name">Dr. Jesús Bernardo</b>
           <p>Catalina, no te asustes, todo tiene soluci&#243;n. Vamos en orden. En primer lugar, este producto no se
-            encuentra en farmacias normales, ya he explicado por qu&#233;. En segundo lugar, ordene las gotas de <a
-              href="{url}" class="link">Redusizer</a> y t&#243;melas siguiendo las instrucciones, me repito,
+            encuentra en farmacias normales, ya he explicado por qu&#233;. En segundo lugar, ordene las gotas de <a href="{url}" class="link">Redusizer</a> y t&#243;melas siguiendo las instrucciones, me repito,
             T&#211;MELAS SOLO SIGUIENDO LAS INSTRUCCIONES AL LETRA si desea lograr el resultado deseado.</p>
           <p class="date">
-            <span class="startdate" format="day.month.year" daysago="6"></span>
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
@@ -950,8 +883,8 @@
   <script src="./js/next-month.js"></script>
 
   <script>
-    $(document).ready(function () {
-      $('a[href*=#]').bind("click", function (e) {
+    $(document).ready(function() {
+      $('a[href*=#]').bind("click", function(e) {
         var anchor = $(this);
         $('html, body').stop().animate({
           scrollTop: $(anchor.attr('href')).offset().top
@@ -1112,11 +1045,10 @@
   <div class="ffl">
     <div class="ffl__wrap">
       <div class="ffl__text">
-        Último día de la promoción: <span style="text-transform:uppercase" class="nowdate"
-          format="day/month/year"></span>
-        <div class="ffl__price">Precio: <span>39 EUR</span></div>
+        ПОСЛЕДНИЙ ДЕНЬ: <span style="text-transform:uppercase" class="nowdate" format="day/month/year"></span>
+        <div class="ffl__price">цена: <span>3700 RSD</span></div>
       </div>
-      <a target="_blank" href="#form" target="_blank" class="ffl__btn">HACER UN PEDIDO</a>
+      <a target="_blank" href="#form" target="_blank" class="ffl__btn">ОФОРМИТЬ ЗАКАЗ</a>
       <div class="ffl__close">×</svg>
       </div>
     </div>
@@ -1282,13 +1214,13 @@
     }
   </style>
   <script>
-    $(document).ready(function () {
-      setTimeout(function () {
+    $(document).ready(function() {
+      setTimeout(function() {
         $('.ffl').addClass('ffl__anim')
       }, 300)
     })
 
-    $(window).on('load resize', function () {
+    $(window).on('load resize', function() {
       let fflHeight = $('.ffl').outerHeight();
       if ($(window).width() < 469 && !$('.ffl').hasClass('ffl__out')) {
         $('html').css('padding-bottom', fflHeight + 'px')
@@ -1297,15 +1229,14 @@
       }
     })
 
-    $('.ffl__close, .ffl__btn').on('click', function () {
+    $('.ffl__close, .ffl__btn').on('click', function() {
       $('.ffl').addClass('ffl__out')
       $('html').css('padding-bottom', '0')
     })
   </script>
   <!-- END FIXED FOOTER LINE -->
 
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif:400,700&display=swap&subset=latin-ext"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|PT+Serif:400,700&display=swap&subset=latin-ext" rel="stylesheet">
   <div style="position: absolute; left: -1000px; top: -1000px; font-family: 'Roboto', sans-serif !important;">
     Font Preload and <img loading="lazy" src="img/product1.png">
   </div>
@@ -1315,9 +1246,7 @@
         <div class="modal-leave">
           <div class="modal-leave__info">
             <div class="modal-leave__title">¡ESPERE!</div>
-            <div class="modal-leave__motivation"> ¡Pierda 15 kilos <strong><a
-                  style="text-decoration: underline!important" class="modal-leave__btn-motivation js-modal-leave-next"
-                  data-target="e-comebacker-offer" type="button">en solo 28 días</a></strong> y&nbsp;elimine los
+            <div class="modal-leave__motivation"> ¡Pierda 15 kilos <strong><a style="text-decoration: underline!important" class="modal-leave__btn-motivation js-modal-leave-next" data-target="e-comebacker-offer" type="button">en solo 28 días</a></strong> y&nbsp;elimine los
               problemas de sobrepeso para siempre!
             </div>
             <div class="modal-leave__text">
@@ -1329,8 +1258,7 @@
             </div>
             <div class="modal-leave__btn-wrapper">
 
-              <button class="modal-leave__btn-next js-modal-leave-next" data-target="e-comebacker-offer"
-                type="button">SABER MÁS</button>
+              <button class="modal-leave__btn-next js-modal-leave-next" data-target="e-comebacker-offer" type="button">SABER MÁS</button>
               <button class="modal-leave__btn-no js-comebacker-close" type="button">No gracias, prefiero perder la
                 oportunidad...
               </button>
@@ -1387,8 +1315,7 @@
             <div class="modal-offer__field">
               <div class="__wrapper">
                 <label class="__label">Teléfono:</label>
-                <input id="phone" class="phone __input __input--phone" type="tel" name="phone" placeholder="+34 _______"
-                  required required="" />
+                <input id="phone" class="phone __input __input--phone" type="tel" name="phone" placeholder="+34 _______" required required="" />
               </div>
             </div>
             <div class="modal-offer__field">
@@ -1403,9 +1330,7 @@
       </div>
     </div>
   </div>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js"
-    integrity="sha512-3YT22Fw1AUW4I3ww7mROUxleX/WhHY1uh6ZbWL5bRyqDNc8UE8UQf4otTicqtpzXEeSa2Ct3aZ/8gpjVcsz9LQ=="
-    crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.12/ouibounce.min.js" integrity="sha512-3YT22Fw1AUW4I3ww7mROUxleX/WhHY1uh6ZbWL5bRyqDNc8UE8UQf4otTicqtpzXEeSa2Ct3aZ/8gpjVcsz9LQ==" crossorigin="anonymous"></script>
   <script defer type="text/javascript" src="js/euro.comebacker.js"></script>
   <style>
     .modal-leave .modal-leave__btn-no:hover,
@@ -1665,10 +1590,10 @@
     }
 
     .modal-offer__product .__image {
-      max-width: 147%;
+      max-width: 100%;
       max-height: 270px;
       margin-bottom: 0;
-      margin-left: -39px;
+      margin-left: 30px;
     }
 
     .modal-offer__cong-text {
@@ -1984,11 +1909,11 @@
   </style>
 
   <script>
-    window.addEventListener('load', function () {
+    window.addEventListener('load', function() {
       if (window.history && window.history.pushState) {
         window.history.pushState('forward', null, ''); // Добавляем запись в историю браузера
 
-        window.onpopstate = function () {
+        window.onpopstate = function() {
           window.location.href = 'comeback-page/index.php'; // Переходим на страницу `comeback-page/index.php`
         };
       }
@@ -2000,7 +1925,7 @@
       return window.pageYOffset + document.querySelector(query).getBoundingClientRect().top;
     }
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
+      anchor.addEventListener('click', function(e) {
         e.preventDefault();
 
         const targetID = this.getAttribute('href');
@@ -2022,7 +1947,6 @@
     });
   </script>
 
-  <script src="./js/comment.js"></script>
 </body>
 
 </html>
