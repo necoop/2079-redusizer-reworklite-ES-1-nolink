@@ -455,6 +455,7 @@
             como estoy ahora:</p>
           <img loading="lazy" src="img/img2.jpg" alt="">
           <p class="date">
+            <span class="startdate" format="day.month.year" daysago="0"></span>
           </p>
         </div>
       </div>
